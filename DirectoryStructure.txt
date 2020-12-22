@@ -1,0 +1,1902 @@
+The\ Beatles\ Annotations
+├── Audio
+│   ├── 02_-_Eleanor_Rigby.wav
+│   ├── 02_-_The_Fool_On_The_Hill.wav
+│   ├── 03_-_All_My_Loving.wav
+│   ├── 04_-_Getting_Better.wav
+│   ├── 05_-_Here,_There_And_Everywhere.wav
+│   ├── 07_-_Michelle.wav
+│   ├── 07_-_Please_Please_Me.wav
+│   ├── 09_-_Penny_Lane.wav
+│   ├── 10_-_For_No_One.wav
+│   ├── 10_-_Lovely_Rita.wav
+│   ├── 11_-_All_You_Need_Is_Love.wav
+│   ├── 13_-_Yesterday.wav
+│   ├── CD1_-_01_-_Back_in_the_USSR.wav
+│   ├── CD1_-_02_-_Dear_Prudence.wav
+│   ├── CD2_-_03_-_Mother_Nature's_Son.wav
+│   └── Old\ Audio
+│       ├── 09_-_Penny_Lane.wav
+│       ├── 09_-_Penny_Lane_HarmonicOnly.wav
+│       ├── All\ You\ Need\ Is\ Love.wav
+│       ├── All\ You\ Need\ Is\ Love_HarmonicOnly.wav
+│       ├── Dear\ Prudence.wav
+│       ├── Dear\ Prudence_HarmonicOnly.wav
+│       ├── Getting\ Better.wav
+│       ├── Getting\ Better_HarmonicOnly.wav
+│       ├── Mother\ Natures\ Son.wav
+│       ├── Mother\ Natures\ Son_HarmonicOnly.wav
+│       ├── The\ Fool\ On\ The\ Hill.wav
+│       └── The\ Fool\ On\ The\ Hill_HarmonicOnly.wav
+├── all
+│   └── The\ Beatles
+│       ├── 01_-_Please_Please_Me
+│       │   ├── 01_-_I_Saw_Her_Standing_There.ttl
+│       │   ├── 02_-_Misery.ttl
+│       │   ├── 03_-_Anna_(Go_To_Him).ttl
+│       │   ├── 04_-_Chains.ttl
+│       │   ├── 05_-_Boys.ttl
+│       │   ├── 06_-_Ask_Me_Why.ttl
+│       │   ├── 07_-_Please_Please_Me.ttl
+│       │   ├── 08_-_Love_Me_Do.ttl
+│       │   ├── 09_-_P._S._I_Love_You.ttl
+│       │   ├── 10_-_Baby_It's_You.ttl
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.ttl
+│       │   ├── 12_-_A_Taste_Of_Honey.ttl
+│       │   ├── 13_-_There's_A_Place.ttl
+│       │   └── 14_-_Twist_And_Shout.ttl
+│       ├── 02_-_With_the_Beatles
+│       │   ├── 01_-_It_Won't_Be_Long.ttl
+│       │   ├── 02_-_All_I've_Got_To_Do.ttl
+│       │   ├── 03_-_All_My_Loving.ttl
+│       │   ├── 04_-_Don't_Bother_Me.ttl
+│       │   ├── 05_-_Little_Child.ttl
+│       │   ├── 06_-_Till_There_Was_You.ttl
+│       │   ├── 07_-_Please_Mister_Postman.ttl
+│       │   ├── 08_-_Roll_Over_Beethoven.ttl
+│       │   ├── 09_-_Hold_Me_Tight.ttl
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.ttl
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.ttl
+│       │   ├── 12_-_Devil_In_Her_Heart.ttl
+│       │   ├── 13_-_Not_A_Second_Time.ttl
+│       │   └── 14_-_Money.ttl
+│       ├── 03_-_A_Hard_Day's_Night
+│       │   ├── 01_-_A_Hard_Day's_Night.ttl
+│       │   ├── 02_-_I_Should_Have_Known_Better.ttl
+│       │   ├── 03_-_If_I_Fell.ttl
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.ttl
+│       │   ├── 05_-_And_I_Love_Her.ttl
+│       │   ├── 06_-_Tell_Me_Why.ttl
+│       │   ├── 07_-_Can't_Buy_Me_Love.ttl
+│       │   ├── 08_-_Any_Time_At_All.ttl
+│       │   ├── 09_-_I'll_Cry_Instead.ttl
+│       │   ├── 10_-_Things_We_Said_Today.ttl
+│       │   ├── 11_-_When_I_Get_Home.ttl
+│       │   ├── 12_-_You_Can't_Do_That.ttl
+│       │   └── 13_-_I'll_Be_Back.ttl
+│       ├── 04_-_Beatles_for_Sale
+│       │   ├── 01_-_No_Reply.ttl
+│       │   ├── 02_-_I'm_a_Loser.ttl
+│       │   ├── 03_-_Baby's_In_Black.ttl
+│       │   ├── 04_-_Rock_and_Roll_Music.ttl
+│       │   ├── 05_-_I'll_Follow_the_Sun.ttl
+│       │   ├── 06_-_Mr._Moonlight.ttl
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.ttl
+│       │   ├── 08_-_Eight_Days_a_Week.ttl
+│       │   ├── 09_-_Words_of_Love.ttl
+│       │   ├── 10_-_Honey_Don't.ttl
+│       │   ├── 11_-_Every_Little_Thing.ttl
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.ttl
+│       │   ├── 13_-_What_You're_Doing.ttl
+│       │   └── 14_-_Everybody's_Trying_to_Be_My_Baby.ttl
+│       ├── 05_-_Help!
+│       │   ├── 01_-_Help!.ttl
+│       │   ├── 02_-_The_Night_Before.ttl
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.ttl
+│       │   ├── 04_-_I_Need_You.ttl
+│       │   ├── 05_-_Another_Girl.ttl
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.ttl
+│       │   ├── 07_-_Ticket_To_Ride.ttl
+│       │   ├── 08_-_Act_Naturally.ttl
+│       │   ├── 09_-_It's_Only_Love.ttl
+│       │   ├── 10_-_You_Like_Me_Too_Much.ttl
+│       │   ├── 11_-_Tell_Me_What_You_See.ttl
+│       │   ├── 12_-_I've_Just_Seen_a_Face.ttl
+│       │   ├── 13_-_Yesterday.ttl
+│       │   └── 14_-_Dizzy_Miss_Lizzy.ttl
+│       ├── 06_-_Rubber_Soul
+│       │   ├── 01_-_Drive_My_Car.ttl
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).ttl
+│       │   ├── 03_-_You_Won't_See_Me.ttl
+│       │   ├── 04_-_Nowhere_Man.ttl
+│       │   ├── 05_-_Think_For_Yourself.ttl
+│       │   ├── 06_-_The_Word.ttl
+│       │   ├── 07_-_Michelle.ttl
+│       │   ├── 08_-_What_Goes_On.ttl
+│       │   ├── 09_-_Girl.ttl
+│       │   ├── 10_-_I'm_Looking_Through_You.ttl
+│       │   ├── 11_-_In_My_Life.ttl
+│       │   ├── 12_-_Wait.ttl
+│       │   ├── 13_-_If_I_Needed_Someone.ttl
+│       │   └── 14_-_Run_For_Your_Life.ttl
+│       ├── 07_-_Revolver
+│       │   ├── 01_-_Taxman.ttl
+│       │   ├── 02_-_Eleanor_Rigby.ttl
+│       │   ├── 03_-_I'm_Only_Sleeping.ttl
+│       │   ├── 04_-_Love_You_To.ttl
+│       │   ├── 05_-_Here,_There_And_Everywhere.ttl
+│       │   ├── 06_-_Yellow_Submarine.ttl
+│       │   ├── 07_-_She_Said_She_Said.ttl
+│       │   ├── 08_-_Good_Day_Sunshine.ttl
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.ttl
+│       │   ├── 10_-_For_No_One.ttl
+│       │   ├── 11_-_Doctor_Robert.ttl
+│       │   ├── 12_-_I_Want_To_Tell_You.ttl
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.ttl
+│       │   └── 14_-_Tomorrow_Never_Knows.ttl
+│       ├── 08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.ttl
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.ttl
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.ttl
+│       │   ├── 04_-_Getting_Better.ttl
+│       │   ├── 05_-_Fixing_A_Hole.ttl
+│       │   ├── 06_-_She's_Leaving_Home.ttl
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.ttl
+│       │   ├── 08_-_Within_You_Without_You.ttl
+│       │   ├── 09_-_When_I'm_Sixty-Four.ttl
+│       │   ├── 10_-_Lovely_Rita.ttl
+│       │   ├── 11_-_Good_Morning_Good_Morning.ttl
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).ttl
+│       │   └── 13_-_A_Day_In_The_Life.ttl
+│       ├── 09_-_Magical_Mystery_Tour
+│       │   ├── 01_-_Magical_Mystery_Tour.ttl
+│       │   ├── 02_-_The_Fool_On_The_Hill.ttl
+│       │   ├── 03_-_Flying.ttl
+│       │   ├── 04_-_Blue_Jay_Way.ttl
+│       │   ├── 05_-_Your_Mother_Should_Know.ttl
+│       │   ├── 06_-_I_Am_The_Walrus.ttl
+│       │   ├── 07_-_Hello_Goodbye.ttl
+│       │   ├── 08_-_Strawberry_Fields_Forever.ttl
+│       │   ├── 09_-_Penny_Lane.ttl
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.ttl
+│       │   └── 11_-_All_You_Need_Is_Love.ttl
+│       ├── 10CD1_-_The_Beatles
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.ttl
+│       │   ├── CD1_-_02_-_Dear_Prudence.ttl
+│       │   ├── CD1_-_03_-_Glass_Onion.ttl
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.ttl
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.ttl
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.ttl
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.ttl
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.ttl
+│       │   ├── CD1_-_09_-_Martha_My_Dear.ttl
+│       │   ├── CD1_-_10_-_I'm_So_Tired.ttl
+│       │   ├── CD1_-_11_-_Black_Bird.ttl
+│       │   ├── CD1_-_12_-_Piggies.ttl
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.ttl
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.ttl
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.ttl
+│       │   ├── CD1_-_16_-_I_Will.ttl
+│       │   └── CD1_-_17_-_Julia.ttl
+│       ├── 10CD2_-_The_Beatles
+│       │   ├── CD2_-_01_-_Birthday.ttl
+│       │   ├── CD2_-_02_-_Yer_Blues.ttl
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.ttl
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.ttl
+│       │   ├── CD2_-_05_-_Sexy_Sadie.ttl
+│       │   ├── CD2_-_06_-_Helter_Skelter.ttl
+│       │   ├── CD2_-_07_-_Long_Long_Long.ttl
+│       │   ├── CD2_-_08_-_Revolution_1.ttl
+│       │   ├── CD2_-_09_-_Honey_Pie.ttl
+│       │   ├── CD2_-_10_-_Savoy_Truffle.ttl
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.ttl
+│       │   ├── CD2_-_12_-_Revolution_9.ttl
+│       │   └── CD2_-_13_-_Good_Night.ttl
+│       ├── 11_-_Abbey_Road
+│       │   ├── 01_-_Come_Together.ttl
+│       │   ├── 02_-_Something.ttl
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.ttl
+│       │   ├── 04_-_Oh!_Darling.ttl
+│       │   ├── 05_-_Octopus's_Garden.ttl
+│       │   ├── 06_-_I_Want_You.ttl
+│       │   ├── 07_-_Here_Comes_The_Sun.ttl
+│       │   ├── 08_-_Because.ttl
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.ttl
+│       │   ├── 10_-_Sun_King.ttl
+│       │   ├── 11_-_Mean_Mr_Mustard.ttl
+│       │   ├── 12_-_Polythene_Pam.ttl
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.ttl
+│       │   ├── 14_-_Golden_Slumbers.ttl
+│       │   ├── 15_-_Carry_That_Weight.ttl
+│       │   ├── 16_-_The_End.ttl
+│       │   └── 17_-_Her_Majesty.ttl
+│       └── 12_-_Let_It_Be
+│           ├── 01_-_Two_of_Us.ttl
+│           ├── 02_-_Dig_a_Pony.ttl
+│           ├── 03_-_Across_the_Universe.ttl
+│           ├── 04_-_I_Me_Mine.ttl
+│           ├── 05_-_Dig_It.ttl
+│           ├── 06_-_Let_It_Be.ttl
+│           ├── 07_-_Maggie_Mae.ttl
+│           ├── 08_-_I've_Got_A_Feeling.ttl
+│           ├── 09_-_One_After_909.ttl
+│           ├── 10_-_The_Long_and_Winding_Road.ttl
+│           ├── 11_-_For_You_Blue.ttl
+│           └── 12_-_Get_Back.ttl
+├── beat
+│   └── The\ Beatles
+│       ├── 01_-_Please_Please_Me
+│       │   ├── 01_-_I_Saw_Her_Standing_There.ttl
+│       │   ├── 01_-_I_Saw_Her_Standing_There.txt
+│       │   ├── 02_-_Misery.ttl
+│       │   ├── 02_-_Misery.txt
+│       │   ├── 03_-_Anna_(Go_To_Him).ttl
+│       │   ├── 03_-_Anna_(Go_To_Him).txt
+│       │   ├── 04_-_Chains.ttl
+│       │   ├── 04_-_Chains.txt
+│       │   ├── 05_-_Boys.ttl
+│       │   ├── 05_-_Boys.txt
+│       │   ├── 06_-_Ask_Me_Why.ttl
+│       │   ├── 06_-_Ask_Me_Why.txt
+│       │   ├── 07_-_Please_Please_Me.ttl
+│       │   ├── 07_-_Please_Please_Me.txt
+│       │   ├── 08_-_Love_Me_Do.ttl
+│       │   ├── 08_-_Love_Me_Do.txt
+│       │   ├── 09_-_P._S._I_Love_You.ttl
+│       │   ├── 09_-_P._S._I_Love_You.txt
+│       │   ├── 10_-_Baby_It's_You.ttl
+│       │   ├── 10_-_Baby_It's_You.txt
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.ttl
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.txt
+│       │   ├── 12_-_A_Taste_Of_Honey.ttl
+│       │   ├── 12_-_A_Taste_Of_Honey.txt
+│       │   ├── 13_-_There's_A_Place.ttl
+│       │   ├── 13_-_There's_A_Place.txt
+│       │   ├── 14_-_Twist_And_Shout.ttl
+│       │   └── 14_-_Twist_And_Shout.txt
+│       ├── 02_-_With_the_Beatles
+│       │   ├── 01_-_It_Won't_Be_Long.ttl
+│       │   ├── 01_-_It_Won't_Be_Long.txt
+│       │   ├── 02_-_All_I've_Got_To_Do.ttl
+│       │   ├── 02_-_All_I've_Got_To_Do.txt
+│       │   ├── 03_-_All_My_Loving.ttl
+│       │   ├── 03_-_All_My_Loving.txt
+│       │   ├── 04_-_Don't_Bother_Me.ttl
+│       │   ├── 04_-_Don't_Bother_Me.txt
+│       │   ├── 05_-_Little_Child.ttl
+│       │   ├── 05_-_Little_Child.txt
+│       │   ├── 06_-_Till_There_Was_You.ttl
+│       │   ├── 06_-_Till_There_Was_You.txt
+│       │   ├── 07_-_Please_Mister_Postman.ttl
+│       │   ├── 07_-_Please_Mister_Postman.txt
+│       │   ├── 08_-_Roll_Over_Beethoven.ttl
+│       │   ├── 08_-_Roll_Over_Beethoven.txt
+│       │   ├── 09_-_Hold_Me_Tight.ttl
+│       │   ├── 09_-_Hold_Me_Tight.txt
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.ttl
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.txt
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.ttl
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.txt
+│       │   ├── 12_-_Devil_In_Her_Heart.ttl
+│       │   ├── 12_-_Devil_In_Her_Heart.txt
+│       │   ├── 13_-_Not_A_Second_Time.ttl
+│       │   ├── 13_-_Not_A_Second_Time.txt
+│       │   ├── 14_-_Money.ttl
+│       │   └── 14_-_Money.txt
+│       ├── 03_-_A_Hard_Day's_Night
+│       │   ├── 01_-_A_Hard_Day's_Night.ttl
+│       │   ├── 01_-_A_Hard_Day's_Night.txt
+│       │   ├── 02_-_I_Should_Have_Known_Better.ttl
+│       │   ├── 02_-_I_Should_Have_Known_Better.txt
+│       │   ├── 03_-_If_I_Fell.ttl
+│       │   ├── 03_-_If_I_Fell.txt
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.ttl
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.txt
+│       │   ├── 05_-_And_I_Love_Her.ttl
+│       │   ├── 05_-_And_I_Love_Her.txt
+│       │   ├── 06_-_Tell_Me_Why.ttl
+│       │   ├── 06_-_Tell_Me_Why.txt
+│       │   ├── 07_-_Can't_Buy_Me_Love.ttl
+│       │   ├── 07_-_Can't_Buy_Me_Love.txt
+│       │   ├── 08_-_Any_Time_At_All.ttl
+│       │   ├── 08_-_Any_Time_At_All.txt
+│       │   ├── 09_-_I'll_Cry_Instead.ttl
+│       │   ├── 09_-_I'll_Cry_Instead.txt
+│       │   ├── 10_-_Things_We_Said_Today.ttl
+│       │   ├── 10_-_Things_We_Said_Today.txt
+│       │   ├── 11_-_When_I_Get_Home.ttl
+│       │   ├── 11_-_When_I_Get_Home.txt
+│       │   ├── 12_-_You_Can't_Do_That.ttl
+│       │   ├── 12_-_You_Can't_Do_That.txt
+│       │   ├── 13_-_I'll_Be_Back.ttl
+│       │   └── 13_-_I'll_Be_Back.txt
+│       ├── 04_-_Beatles_for_Sale
+│       │   ├── 01_-_No_Reply.ttl
+│       │   ├── 01_-_No_Reply.txt
+│       │   ├── 02_-_I'm_a_Loser.ttl
+│       │   ├── 02_-_I'm_a_Loser.txt
+│       │   ├── 03_-_Baby's_In_Black.ttl
+│       │   ├── 03_-_Baby's_In_Black.txt
+│       │   ├── 04_-_Rock_and_Roll_Music.ttl
+│       │   ├── 04_-_Rock_and_Roll_Music.txt
+│       │   ├── 05_-_I'll_Follow_the_Sun.ttl
+│       │   ├── 05_-_I'll_Follow_the_Sun.txt
+│       │   ├── 06_-_Mr._Moonlight.ttl
+│       │   ├── 06_-_Mr._Moonlight.txt
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.ttl
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.txt
+│       │   ├── 08_-_Eight_Days_a_Week.ttl
+│       │   ├── 08_-_Eight_Days_a_Week.txt
+│       │   ├── 09_-_Words_of_Love.ttl
+│       │   ├── 09_-_Words_of_Love.txt
+│       │   ├── 10_-_Honey_Don't.ttl
+│       │   ├── 10_-_Honey_Don't.txt
+│       │   ├── 11_-_Every_Little_Thing.ttl
+│       │   ├── 11_-_Every_Little_Thing.txt
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.ttl
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.txt
+│       │   ├── 13_-_What_You're_Doing.ttl
+│       │   ├── 13_-_What_You're_Doing.txt
+│       │   ├── 14_-_Everybody's_Trying_to_Be_My_Baby.ttl
+│       │   └── 14_-_Everybody's_Trying_to_Be_My_Baby.txt
+│       ├── 05_-_Help!
+│       │   ├── 01_-_Help!.ttl
+│       │   ├── 01_-_Help!.txt
+│       │   ├── 02_-_The_Night_Before.ttl
+│       │   ├── 02_-_The_Night_Before.txt
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.ttl
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.txt
+│       │   ├── 04_-_I_Need_You.ttl
+│       │   ├── 04_-_I_Need_You.txt
+│       │   ├── 05_-_Another_Girl.ttl
+│       │   ├── 05_-_Another_Girl.txt
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.ttl
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.txt
+│       │   ├── 07_-_Ticket_To_Ride.ttl
+│       │   ├── 07_-_Ticket_To_Ride.txt
+│       │   ├── 08_-_Act_Naturally.ttl
+│       │   ├── 08_-_Act_Naturally.txt
+│       │   ├── 09_-_It's_Only_Love.ttl
+│       │   ├── 09_-_It's_Only_Love.txt
+│       │   ├── 10_-_You_Like_Me_Too_Much.ttl
+│       │   ├── 10_-_You_Like_Me_Too_Much.txt
+│       │   ├── 11_-_Tell_Me_What_You_See.ttl
+│       │   ├── 11_-_Tell_Me_What_You_See.txt
+│       │   ├── 12_-_I've_Just_Seen_a_Face.ttl
+│       │   ├── 12_-_I've_Just_Seen_a_Face.txt
+│       │   ├── 13_-_Yesterday.ttl
+│       │   ├── 13_-_Yesterday.txt
+│       │   ├── 14_-_Dizzy_Miss_Lizzy.ttl
+│       │   └── 14_-_Dizzy_Miss_Lizzy.txt
+│       ├── 06_-_Rubber_Soul
+│       │   ├── 01_-_Drive_My_Car.ttl
+│       │   ├── 01_-_Drive_My_Car.txt
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).ttl
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).txt
+│       │   ├── 03_-_You_Won't_See_Me.ttl
+│       │   ├── 03_-_You_Won't_See_Me.txt
+│       │   ├── 04_-_Nowhere_Man.ttl
+│       │   ├── 04_-_Nowhere_Man.txt
+│       │   ├── 05_-_Think_For_Yourself.ttl
+│       │   ├── 05_-_Think_For_Yourself.txt
+│       │   ├── 06_-_The_Word.ttl
+│       │   ├── 06_-_The_Word.txt
+│       │   ├── 07_-_Michelle.ttl
+│       │   ├── 07_-_Michelle.txt
+│       │   ├── 08_-_What_Goes_On.ttl
+│       │   ├── 08_-_What_Goes_On.txt
+│       │   ├── 09_-_Girl.ttl
+│       │   ├── 09_-_Girl.txt
+│       │   ├── 10_-_I'm_Looking_Through_You.ttl
+│       │   ├── 10_-_I'm_Looking_Through_You.txt
+│       │   ├── 11_-_In_My_Life.ttl
+│       │   ├── 11_-_In_My_Life.txt
+│       │   ├── 12_-_Wait.ttl
+│       │   ├── 12_-_Wait.txt
+│       │   ├── 13_-_If_I_Needed_Someone.ttl
+│       │   ├── 13_-_If_I_Needed_Someone.txt
+│       │   ├── 14_-_Run_For_Your_Life.ttl
+│       │   └── 14_-_Run_For_Your_Life.txt
+│       ├── 07_-_Revolver
+│       │   ├── 01_-_Taxman.ttl
+│       │   ├── 01_-_Taxman.txt
+│       │   ├── 02_-_Eleanor_Rigby.ttl
+│       │   ├── 02_-_Eleanor_Rigby.txt
+│       │   ├── 03_-_I'm_Only_Sleeping.ttl
+│       │   ├── 03_-_I'm_Only_Sleeping.txt
+│       │   ├── 04_-_Love_You_To.ttl
+│       │   ├── 04_-_Love_You_To.txt
+│       │   ├── 05_-_Here,_There_And_Everywhere.ttl
+│       │   ├── 05_-_Here,_There_And_Everywhere.txt
+│       │   ├── 06_-_Yellow_Submarine.ttl
+│       │   ├── 06_-_Yellow_Submarine.txt
+│       │   ├── 07_-_She_Said_She_Said.ttl
+│       │   ├── 07_-_She_Said_She_Said.txt
+│       │   ├── 08_-_Good_Day_Sunshine.ttl
+│       │   ├── 08_-_Good_Day_Sunshine.txt
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.ttl
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.txt
+│       │   ├── 10_-_For_No_One.ttl
+│       │   ├── 10_-_For_No_One.txt
+│       │   ├── 11_-_Doctor_Robert.ttl
+│       │   ├── 11_-_Doctor_Robert.txt
+│       │   ├── 12_-_I_Want_To_Tell_You.ttl
+│       │   ├── 12_-_I_Want_To_Tell_You.txt
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.ttl
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.txt
+│       │   ├── 14_-_Tomorrow_Never_Knows.ttl
+│       │   └── 14_-_Tomorrow_Never_Knows.txt
+│       ├── 08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.ttl
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.txt
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.ttl
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.txt
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.ttl
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.txt
+│       │   ├── 04_-_Getting_Better.ttl
+│       │   ├── 04_-_Getting_Better.txt
+│       │   ├── 05_-_Fixing_A_Hole.ttl
+│       │   ├── 05_-_Fixing_A_Hole.txt
+│       │   ├── 06_-_She's_Leaving_Home.ttl
+│       │   ├── 06_-_She's_Leaving_Home.txt
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.ttl
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.txt
+│       │   ├── 08_-_Within_You_Without_You.ttl
+│       │   ├── 08_-_Within_You_Without_You.txt
+│       │   ├── 09_-_When_I'm_Sixty-Four.ttl
+│       │   ├── 09_-_When_I'm_Sixty-Four.txt
+│       │   ├── 10_-_Lovely_Rita.ttl
+│       │   ├── 10_-_Lovely_Rita.txt
+│       │   ├── 11_-_Good_Morning_Good_Morning.ttl
+│       │   ├── 11_-_Good_Morning_Good_Morning.txt
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).ttl
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).txt
+│       │   ├── 13_-_A_Day_In_The_Life.ttl
+│       │   └── 13_-_A_Day_In_The_Life.txt
+│       ├── 09_-_Magical_Mystery_Tour
+│       │   ├── 01_-_Magical_Mystery_Tour.ttl
+│       │   ├── 01_-_Magical_Mystery_Tour.txt
+│       │   ├── 02_-_The_Fool_On_The_Hill.ttl
+│       │   ├── 02_-_The_Fool_On_The_Hill.txt
+│       │   ├── 03_-_Flying.ttl
+│       │   ├── 03_-_Flying.txt
+│       │   ├── 04_-_Blue_Jay_Way.ttl
+│       │   ├── 04_-_Blue_Jay_Way.txt
+│       │   ├── 05_-_Your_Mother_Should_Know.ttl
+│       │   ├── 05_-_Your_Mother_Should_Know.txt
+│       │   ├── 06_-_I_Am_The_Walrus.ttl
+│       │   ├── 06_-_I_Am_The_Walrus.txt
+│       │   ├── 07_-_Hello_Goodbye.ttl
+│       │   ├── 07_-_Hello_Goodbye.txt
+│       │   ├── 08_-_Strawberry_Fields_Forever.ttl
+│       │   ├── 08_-_Strawberry_Fields_Forever.txt
+│       │   ├── 09_-_Penny_Lane.ttl
+│       │   ├── 09_-_Penny_Lane.txt
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.ttl
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.txt
+│       │   ├── 11_-_All_You_Need_Is_Love.ttl
+│       │   └── 11_-_All_You_Need_Is_Love.txt
+│       ├── 10CD1_-_The_Beatles
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.ttl
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.txt
+│       │   ├── CD1_-_02_-_Dear_Prudence.ttl
+│       │   ├── CD1_-_02_-_Dear_Prudence.txt
+│       │   ├── CD1_-_03_-_Glass_Onion.ttl
+│       │   ├── CD1_-_03_-_Glass_Onion.txt
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.ttl
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.txt
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.ttl
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.txt
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.ttl
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.txt
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.ttl
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.txt
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.ttl
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.txt
+│       │   ├── CD1_-_09_-_Martha_My_Dear.ttl
+│       │   ├── CD1_-_09_-_Martha_My_Dear.txt
+│       │   ├── CD1_-_10_-_I'm_So_Tired.ttl
+│       │   ├── CD1_-_10_-_I'm_So_Tired.txt
+│       │   ├── CD1_-_11_-_Black_Bird.ttl
+│       │   ├── CD1_-_11_-_Black_Bird.txt
+│       │   ├── CD1_-_12_-_Piggies.ttl
+│       │   ├── CD1_-_12_-_Piggies.txt
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.ttl
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.txt
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.ttl
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.txt
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.ttl
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.txt
+│       │   ├── CD1_-_16_-_I_Will.ttl
+│       │   ├── CD1_-_16_-_I_Will.txt
+│       │   ├── CD1_-_17_-_Julia.ttl
+│       │   └── CD1_-_17_-_Julia.txt
+│       ├── 10CD2_-_The_Beatles
+│       │   ├── CD2_-_01_-_Birthday.ttl
+│       │   ├── CD2_-_01_-_Birthday.txt
+│       │   ├── CD2_-_02_-_Yer_Blues.ttl
+│       │   ├── CD2_-_02_-_Yer_Blues.txt
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.ttl
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.txt
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.ttl
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.txt
+│       │   ├── CD2_-_05_-_Sexy_Sadie.ttl
+│       │   ├── CD2_-_05_-_Sexy_Sadie.txt
+│       │   ├── CD2_-_06_-_Helter_Skelter.ttl
+│       │   ├── CD2_-_06_-_Helter_Skelter.txt
+│       │   ├── CD2_-_07_-_Long_Long_Long.ttl
+│       │   ├── CD2_-_07_-_Long_Long_Long.txt
+│       │   ├── CD2_-_08_-_Revolution_1.ttl
+│       │   ├── CD2_-_08_-_Revolution_1.txt
+│       │   ├── CD2_-_09_-_Honey_Pie.ttl
+│       │   ├── CD2_-_09_-_Honey_Pie.txt
+│       │   ├── CD2_-_10_-_Savoy_Truffle.ttl
+│       │   ├── CD2_-_10_-_Savoy_Truffle.txt
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.ttl
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.txt
+│       │   ├── CD2_-_13_-_Good_Night.ttl
+│       │   └── CD2_-_13_-_Good_Night.txt
+│       ├── 11_-_Abbey_Road
+│       │   ├── 01_-_Come_Together.ttl
+│       │   ├── 01_-_Come_Together.txt
+│       │   ├── 02_-_Something.ttl
+│       │   ├── 02_-_Something.txt
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.ttl
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.txt
+│       │   ├── 04_-_Oh!_Darling.ttl
+│       │   ├── 04_-_Oh!_Darling.txt
+│       │   ├── 05_-_Octopus's_Garden.ttl
+│       │   ├── 05_-_Octopus's_Garden.txt
+│       │   ├── 06_-_I_Want_You.ttl
+│       │   ├── 06_-_I_Want_You.txt
+│       │   ├── 07_-_Here_Comes_The_Sun.ttl
+│       │   ├── 07_-_Here_Comes_The_Sun.txt
+│       │   ├── 08_-_Because.ttl
+│       │   ├── 08_-_Because.txt
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.ttl
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.txt
+│       │   ├── 10_-_Sun_King.ttl
+│       │   ├── 10_-_Sun_King.txt
+│       │   ├── 11_-_Mean_Mr_Mustard.ttl
+│       │   ├── 11_-_Mean_Mr_Mustard.txt
+│       │   ├── 12_-_Polythene_Pam.ttl
+│       │   ├── 12_-_Polythene_Pam.txt
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.ttl
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.txt
+│       │   ├── 14_-_Golden_Slumbers.ttl
+│       │   ├── 14_-_Golden_Slumbers.txt
+│       │   ├── 15_-_Carry_That_Weight.ttl
+│       │   ├── 15_-_Carry_That_Weight.txt
+│       │   ├── 16_-_The_End.ttl
+│       │   ├── 16_-_The_End.txt
+│       │   ├── 17_-_Her_Majesty.ttl
+│       │   └── 17_-_Her_Majesty.txt
+│       └── 12_-_Let_It_Be
+│           ├── 01_-_Two_of_Us.ttl
+│           ├── 01_-_Two_of_Us.txt
+│           ├── 02_-_Dig_a_Pony.ttl
+│           ├── 02_-_Dig_a_Pony.txt
+│           ├── 03_-_Across_the_Universe.ttl
+│           ├── 03_-_Across_the_Universe.txt
+│           ├── 04_-_I_Me_Mine.ttl
+│           ├── 04_-_I_Me_Mine.txt
+│           ├── 05_-_Dig_It.ttl
+│           ├── 05_-_Dig_It.txt
+│           ├── 06_-_Let_It_Be.ttl
+│           ├── 06_-_Let_It_Be.txt
+│           ├── 07_-_Maggie_Mae.ttl
+│           ├── 07_-_Maggie_Mae.txt
+│           ├── 08_-_I've_Got_A_Feeling.ttl
+│           ├── 08_-_I've_Got_A_Feeling.txt
+│           ├── 09_-_One_After_909.ttl
+│           ├── 09_-_One_After_909.txt
+│           ├── 10_-_The_Long_and_Winding_Road.ttl
+│           ├── 10_-_The_Long_and_Winding_Road.txt
+│           ├── 11_-_For_You_Blue.ttl
+│           ├── 11_-_For_You_Blue.txt
+│           ├── 12_-_Get_Back.ttl
+│           └── 12_-_Get_Back.txt
+├── chords
+│   └── The\ Beatles
+│       ├── 01_-_Please_Please_Me
+│       │   ├── 01_-_I_Saw_Her_Standing_There.svl
+│       │   ├── 01_-_I_Saw_Her_Standing_There.ttl
+│       │   ├── 02_-_Misery.lab
+│       │   ├── 02_-_Misery.svl
+│       │   ├── 02_-_Misery.ttl
+│       │   ├── 03_-_Anna_(Go_To_Him).lab
+│       │   ├── 03_-_Anna_(Go_To_Him).svl
+│       │   ├── 03_-_Anna_(Go_To_Him).ttl
+│       │   ├── 04_-_Chains.lab
+│       │   ├── 04_-_Chains.svl
+│       │   ├── 04_-_Chains.ttl
+│       │   ├── 05_-_Boys.lab
+│       │   ├── 05_-_Boys.svl
+│       │   ├── 05_-_Boys.ttl
+│       │   ├── 06_-_Ask_Me_Why.lab
+│       │   ├── 06_-_Ask_Me_Why.svl
+│       │   ├── 06_-_Ask_Me_Why.ttl
+│       │   ├── 07_-_Please_Please_Me.lab
+│       │   ├── 07_-_Please_Please_Me.svl
+│       │   ├── 07_-_Please_Please_Me.ttl
+│       │   ├── 08_-_Love_Me_Do.lab
+│       │   ├── 08_-_Love_Me_Do.svl
+│       │   ├── 08_-_Love_Me_Do.ttl
+│       │   ├── 09_-_P._S._I_Love_You.lab
+│       │   ├── 09_-_P._S._I_Love_You.svl
+│       │   ├── 09_-_P._S._I_Love_You.ttl
+│       │   ├── 10_-_Baby_It's_You.lab
+│       │   ├── 10_-_Baby_It's_You.svl
+│       │   ├── 10_-_Baby_It's_You.ttl
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.lab
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.svl
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.ttl
+│       │   ├── 12_-_A_Taste_Of_Honey.lab
+│       │   ├── 12_-_A_Taste_Of_Honey.svl
+│       │   ├── 12_-_A_Taste_Of_Honey.ttl
+│       │   ├── 13_-_There's_A_Place.lab
+│       │   ├── 13_-_There's_A_Place.svl
+│       │   ├── 13_-_There's_A_Place.ttl
+│       │   ├── 14_-_Twist_And_Shout.lab
+│       │   ├── 14_-_Twist_And_Shout.svl
+│       │   └── 14_-_Twist_And_Shout.ttl
+│       ├── 02_-_With_the_Beatles
+│       │   ├── 01_-_It_Won't_Be_Long.lab
+│       │   ├── 01_-_It_Won't_Be_Long.svl
+│       │   ├── 01_-_It_Won't_Be_Long.ttl
+│       │   ├── 02_-_All_I've_Got_To_Do.lab
+│       │   ├── 02_-_All_I've_Got_To_Do.svl
+│       │   ├── 02_-_All_I've_Got_To_Do.ttl
+│       │   ├── 03_-_All_My_Loving.lab
+│       │   ├── 03_-_All_My_Loving.svl
+│       │   ├── 03_-_All_My_Loving.ttl
+│       │   ├── 04_-_Don't_Bother_Me.lab
+│       │   ├── 04_-_Don't_Bother_Me.svl
+│       │   ├── 04_-_Don't_Bother_Me.ttl
+│       │   ├── 05_-_Little_Child.lab
+│       │   ├── 05_-_Little_Child.svl
+│       │   ├── 05_-_Little_Child.ttl
+│       │   ├── 06_-_Till_There_Was_You.lab
+│       │   ├── 06_-_Till_There_Was_You.svl
+│       │   ├── 06_-_Till_There_Was_You.ttl
+│       │   ├── 07_-_Please_Mister_Postman.lab
+│       │   ├── 07_-_Please_Mister_Postman.svl
+│       │   ├── 07_-_Please_Mister_Postman.ttl
+│       │   ├── 08_-_Roll_Over_Beethoven.lab
+│       │   ├── 08_-_Roll_Over_Beethoven.svl
+│       │   ├── 08_-_Roll_Over_Beethoven.ttl
+│       │   ├── 09_-_Hold_Me_Tight.lab
+│       │   ├── 09_-_Hold_Me_Tight.svl
+│       │   ├── 09_-_Hold_Me_Tight.ttl
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.lab
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.svl
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.ttl
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.lab
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.svl
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.ttl
+│       │   ├── 12_-_Devil_In_Her_Heart.lab
+│       │   ├── 12_-_Devil_In_Her_Heart.svl
+│       │   ├── 12_-_Devil_In_Her_Heart.ttl
+│       │   ├── 13_-_Not_A_Second_Time.lab
+│       │   ├── 13_-_Not_A_Second_Time.svl
+│       │   ├── 13_-_Not_A_Second_Time.ttl
+│       │   ├── 14_-_Money.lab
+│       │   ├── 14_-_Money.svl
+│       │   └── 14_-_Money.ttl
+│       ├── 03_-_A_Hard_Day's_Night
+│       │   ├── 01_-_A_Hard_Day's_Night.lab
+│       │   ├── 01_-_A_Hard_Day's_Night.svl
+│       │   ├── 01_-_A_Hard_Day's_Night.ttl
+│       │   ├── 02_-_I_Should_Have_Known_Better.lab
+│       │   ├── 02_-_I_Should_Have_Known_Better.svl
+│       │   ├── 02_-_I_Should_Have_Known_Better.ttl
+│       │   ├── 03_-_If_I_Fell.lab
+│       │   ├── 03_-_If_I_Fell.svl
+│       │   ├── 03_-_If_I_Fell.ttl
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.lab
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.svl
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.ttl
+│       │   ├── 05_-_And_I_Love_Her.lab
+│       │   ├── 05_-_And_I_Love_Her.svl
+│       │   ├── 05_-_And_I_Love_Her.ttl
+│       │   ├── 06_-_Tell_Me_Why.lab
+│       │   ├── 06_-_Tell_Me_Why.svl
+│       │   ├── 06_-_Tell_Me_Why.ttl
+│       │   ├── 07_-_Can't_Buy_Me_Love.lab
+│       │   ├── 07_-_Can't_Buy_Me_Love.svl
+│       │   ├── 07_-_Can't_Buy_Me_Love.ttl
+│       │   ├── 08_-_Any_Time_At_All.lab
+│       │   ├── 08_-_Any_Time_At_All.svl
+│       │   ├── 08_-_Any_Time_At_All.ttl
+│       │   ├── 09_-_I'll_Cry_Instead.lab
+│       │   ├── 09_-_I'll_Cry_Instead.svl
+│       │   ├── 09_-_I'll_Cry_Instead.ttl
+│       │   ├── 10_-_Things_We_Said_Today.lab
+│       │   ├── 10_-_Things_We_Said_Today.svl
+│       │   ├── 10_-_Things_We_Said_Today.ttl
+│       │   ├── 11_-_When_I_Get_Home.lab
+│       │   ├── 11_-_When_I_Get_Home.svl
+│       │   ├── 11_-_When_I_Get_Home.ttl
+│       │   ├── 12_-_You_Can't_Do_That.lab
+│       │   ├── 12_-_You_Can't_Do_That.svl
+│       │   ├── 12_-_You_Can't_Do_That.ttl
+│       │   ├── 13_-_I'll_Be_Back.lab
+│       │   ├── 13_-_I'll_Be_Back.svl
+│       │   └── 13_-_I'll_Be_Back.ttl
+│       ├── 04_-_Beatles_for_Sale
+│       │   ├── 01_-_No_Reply.lab
+│       │   ├── 01_-_No_Reply.svl
+│       │   ├── 01_-_No_Reply.ttl
+│       │   ├── 02_-_I'm_a_Loser.lab
+│       │   ├── 02_-_I'm_a_Loser.svl
+│       │   ├── 02_-_I'm_a_Loser.ttl
+│       │   ├── 03_-_Baby's_In_Black.lab
+│       │   ├── 03_-_Baby's_In_Black.svl
+│       │   ├── 03_-_Baby's_In_Black.ttl
+│       │   ├── 04_-_Rock_and_Roll_Music.lab
+│       │   ├── 04_-_Rock_and_Roll_Music.svl
+│       │   ├── 04_-_Rock_and_Roll_Music.ttl
+│       │   ├── 05_-_I'll_Follow_the_Sun.lab
+│       │   ├── 05_-_I'll_Follow_the_Sun.svl
+│       │   ├── 05_-_I'll_Follow_the_Sun.ttl
+│       │   ├── 06_-_Mr._Moonlight.lab
+│       │   ├── 06_-_Mr._Moonlight.svl
+│       │   ├── 06_-_Mr._Moonlight.ttl
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.lab
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.svl
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.ttl
+│       │   ├── 08_-_Eight_Days_a_Week.lab
+│       │   ├── 08_-_Eight_Days_a_Week.svl
+│       │   ├── 08_-_Eight_Days_a_Week.ttl
+│       │   ├── 09_-_Words_of_Love.lab
+│       │   ├── 09_-_Words_of_Love.svl
+│       │   ├── 09_-_Words_of_Love.ttl
+│       │   ├── 10_-_Honey_Don't.lab
+│       │   ├── 10_-_Honey_Don't.svl
+│       │   ├── 10_-_Honey_Don't.ttl
+│       │   ├── 11_-_Every_Little_Thing.lab
+│       │   ├── 11_-_Every_Little_Thing.svl
+│       │   ├── 11_-_Every_Little_Thing.ttl
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.lab
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.svl
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.ttl
+│       │   ├── 13_-_What_You're_Doing.lab
+│       │   ├── 13_-_What_You're_Doing.svl
+│       │   ├── 13_-_What_You're_Doing.ttl
+│       │   ├── 14_-_Everybody's_Trying_to_Be_My_Baby.lab
+│       │   ├── 14_-_Everybody's_Trying_to_Be_My_Baby.svl
+│       │   └── 14_-_Everybody's_Trying_to_Be_My_Baby.ttl
+│       ├── 05_-_Help!
+│       │   ├── 01_-_Help!.lab
+│       │   ├── 01_-_Help!.svl
+│       │   ├── 01_-_Help!.ttl
+│       │   ├── 02_-_The_Night_Before.lab
+│       │   ├── 02_-_The_Night_Before.svl
+│       │   ├── 02_-_The_Night_Before.ttl
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.lab
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.svl
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.ttl
+│       │   ├── 04_-_I_Need_You.lab
+│       │   ├── 04_-_I_Need_You.svl
+│       │   ├── 04_-_I_Need_You.ttl
+│       │   ├── 05_-_Another_Girl.lab
+│       │   ├── 05_-_Another_Girl.svl
+│       │   ├── 05_-_Another_Girl.ttl
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.lab
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.ttl
+│       │   ├── 06_-_You're_Going_to_Lose_That_Girl.svl
+│       │   ├── 07_-_Ticket_To_Ride.lab
+│       │   ├── 07_-_Ticket_To_Ride.svl
+│       │   ├── 07_-_Ticket_To_Ride.ttl
+│       │   ├── 08_-_Act_Naturally.lab
+│       │   ├── 08_-_Act_Naturally.svl
+│       │   ├── 08_-_Act_Naturally.ttl
+│       │   ├── 09_-_It's_Only_Love.lab
+│       │   ├── 09_-_It's_Only_Love.svl
+│       │   ├── 09_-_It's_Only_Love.ttl
+│       │   ├── 10_-_You_Like_Me_Too_Much.lab
+│       │   ├── 10_-_You_Like_Me_Too_Much.svl
+│       │   ├── 10_-_You_Like_Me_Too_Much.ttl
+│       │   ├── 11_-_Tell_Me_What_You_See.lab
+│       │   ├── 11_-_Tell_Me_What_You_See.svl
+│       │   ├── 11_-_Tell_Me_What_You_See.ttl
+│       │   ├── 12_-_I've_Just_Seen_a_Face.lab
+│       │   ├── 12_-_I've_Just_Seen_a_Face.svl
+│       │   ├── 12_-_I've_Just_Seen_a_Face.ttl
+│       │   ├── 13_-_Yesterday.lab
+│       │   ├── 13_-_Yesterday.svl
+│       │   ├── 13_-_Yesterday.ttl
+│       │   ├── 14_-_Dizzy_Miss_Lizzy.lab
+│       │   ├── 14_-_Dizzy_Miss_Lizzy.svl
+│       │   └── 14_-_Dizzy_Miss_Lizzy.ttl
+│       ├── 06_-_Rubber_Soul
+│       │   ├── 01_-_Drive_My_Car.lab
+│       │   ├── 01_-_Drive_My_Car.svl
+│       │   ├── 01_-_Drive_My_Car.ttl
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).lab
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).svl
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).ttl
+│       │   ├── 03_-_You_Won't_See_Me.lab
+│       │   ├── 03_-_You_Won't_See_Me.svl
+│       │   ├── 03_-_You_Won't_See_Me.ttl
+│       │   ├── 04_-_Nowhere_Man.lab
+│       │   ├── 04_-_Nowhere_Man.svl
+│       │   ├── 04_-_Nowhere_Man.ttl
+│       │   ├── 05_-_Think_For_Yourself.lab
+│       │   ├── 05_-_Think_For_Yourself.svl
+│       │   ├── 05_-_Think_For_Yourself.ttl
+│       │   ├── 06_-_The_Word.lab
+│       │   ├── 06_-_The_Word.svl
+│       │   ├── 06_-_The_Word.ttl
+│       │   ├── 07_-_Michelle.lab
+│       │   ├── 07_-_Michelle.svl
+│       │   ├── 07_-_Michelle.ttl
+│       │   ├── 08_-_What_Goes_On.lab
+│       │   ├── 08_-_What_Goes_On.svl
+│       │   ├── 08_-_What_Goes_On.ttl
+│       │   ├── 09_-_Girl.lab
+│       │   ├── 09_-_Girl.svl
+│       │   ├── 09_-_Girl.ttl
+│       │   ├── 10_-_I'm_Looking_Through_You.lab
+│       │   ├── 10_-_I'm_Looking_Through_You.svl
+│       │   ├── 10_-_I'm_Looking_Through_You.ttl
+│       │   ├── 11_-_In_My_Life.lab
+│       │   ├── 11_-_In_My_Life.svl
+│       │   ├── 11_-_In_My_Life.ttl
+│       │   ├── 12_-_Wait.lab
+│       │   ├── 12_-_Wait.svl
+│       │   ├── 12_-_Wait.ttl
+│       │   ├── 13_-_If_I_Needed_Someone.lab
+│       │   ├── 13_-_If_I_Needed_Someone.svl
+│       │   ├── 13_-_If_I_Needed_Someone.ttl
+│       │   ├── 14_-_Run_For_Your_Life.lab
+│       │   ├── 14_-_Run_For_Your_Life.svl
+│       │   └── 14_-_Run_For_Your_Life.ttl
+│       ├── 07_-_Revolver
+│       │   ├── 01_-_Taxman.lab
+│       │   ├── 01_-_Taxman.svl
+│       │   ├── 01_-_Taxman.ttl
+│       │   ├── 02_-_Eleanor_Rigby.lab
+│       │   ├── 02_-_Eleanor_Rigby.svl
+│       │   ├── 02_-_Eleanor_Rigby.ttl
+│       │   ├── 03_-_I'm_Only_Sleeping.lab
+│       │   ├── 03_-_I'm_Only_Sleeping.svl
+│       │   ├── 03_-_I'm_Only_Sleeping.ttl
+│       │   ├── 04_-_Love_You_To.lab
+│       │   ├── 04_-_Love_You_To.svl
+│       │   ├── 04_-_Love_You_To.ttl
+│       │   ├── 05_-_Here,_There_And_Everywhere.lab
+│       │   ├── 05_-_Here,_There_And_Everywhere.svl
+│       │   ├── 05_-_Here,_There_And_Everywhere.ttl
+│       │   ├── 06_-_Yellow_Submarine.lab
+│       │   ├── 06_-_Yellow_Submarine.svl
+│       │   ├── 06_-_Yellow_Submarine.ttl
+│       │   ├── 07_-_She_Said_She_Said.lab
+│       │   ├── 07_-_She_Said_She_Said.svl
+│       │   ├── 07_-_She_Said_She_Said.ttl
+│       │   ├── 08_-_Good_Day_Sunshine.lab
+│       │   ├── 08_-_Good_Day_Sunshine.svl
+│       │   ├── 08_-_Good_Day_Sunshine.ttl
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.lab
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.svl
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.ttl
+│       │   ├── 10_-_For_No_One.lab
+│       │   ├── 10_-_For_No_One.svl
+│       │   ├── 10_-_For_No_One.ttl
+│       │   ├── 11_-_Doctor_Robert.lab
+│       │   ├── 11_-_Doctor_Robert.svl
+│       │   ├── 11_-_Doctor_Robert.ttl
+│       │   ├── 12_-_I_Want_To_Tell_You.lab
+│       │   ├── 12_-_I_Want_To_Tell_You.svl
+│       │   ├── 12_-_I_Want_To_Tell_You.ttl
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.lab
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.svl
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.ttl
+│       │   ├── 14_-_Tomorrow_Never_Knows.lab
+│       │   ├── 14_-_Tomorrow_Never_Knows.svl
+│       │   └── 14_-_Tomorrow_Never_Knows.ttl
+│       ├── 08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.lab
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.svl
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.ttl
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.lab
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.svl
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.ttl
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.lab
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.svl
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.ttl
+│       │   ├── 04_-_Getting_Better.lab
+│       │   ├── 04_-_Getting_Better.svl
+│       │   ├── 04_-_Getting_Better.ttl
+│       │   ├── 05_-_Fixing_A_Hole.lab
+│       │   ├── 05_-_Fixing_A_Hole.svl
+│       │   ├── 05_-_Fixing_A_Hole.ttl
+│       │   ├── 06_-_She's_Leaving_Home.lab
+│       │   ├── 06_-_She's_Leaving_Home.svl
+│       │   ├── 06_-_She's_Leaving_Home.ttl
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.lab
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.svl
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.ttl
+│       │   ├── 08_-_Within_You_Without_You.lab
+│       │   ├── 08_-_Within_You_Without_You.svl
+│       │   ├── 08_-_Within_You_Without_You.ttl
+│       │   ├── 09_-_When_I'm_Sixty-Four.lab
+│       │   ├── 09_-_When_I'm_Sixty-Four.svl
+│       │   ├── 09_-_When_I'm_Sixty-Four.ttl
+│       │   ├── 10_-_Lovely_Rita.lab
+│       │   ├── 10_-_Lovely_Rita.svl
+│       │   ├── 10_-_Lovely_Rita.ttl
+│       │   ├── 11_-_Good_Morning_Good_Morning.lab
+│       │   ├── 11_-_Good_Morning_Good_Morning.svl
+│       │   ├── 11_-_Good_Morning_Good_Morning.ttl
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).lab
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).svl
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).ttl
+│       │   ├── 13_-_A_Day_In_The_Life.lab
+│       │   ├── 13_-_A_Day_In_The_Life.svl
+│       │   └── 13_-_A_Day_In_The_Life.ttl
+│       ├── 09_-_Magical_Mystery_Tour
+│       │   ├── 01_-_Magical_Mystery_Tour.lab
+│       │   ├── 01_-_Magical_Mystery_Tour.svl
+│       │   ├── 01_-_Magical_Mystery_Tour.ttl
+│       │   ├── 02_-_The_Fool_On_The_Hill.lab
+│       │   ├── 02_-_The_Fool_On_The_Hill.svl
+│       │   ├── 02_-_The_Fool_On_The_Hill.ttl
+│       │   ├── 03_-_Flying.lab
+│       │   ├── 03_-_Flying.svl
+│       │   ├── 03_-_Flying.ttl
+│       │   ├── 04_-_Blue_Jay_Way.lab
+│       │   ├── 04_-_Blue_Jay_Way.svl
+│       │   ├── 04_-_Blue_Jay_Way.ttl
+│       │   ├── 05_-_Your_Mother_Should_Know.lab
+│       │   ├── 05_-_Your_Mother_Should_Know.svl
+│       │   ├── 05_-_Your_Mother_Should_Know.ttl
+│       │   ├── 06_-_I_Am_The_Walrus.lab
+│       │   ├── 06_-_I_Am_The_Walrus.svl
+│       │   ├── 06_-_I_Am_The_Walrus.ttl
+│       │   ├── 07_-_Hello_Goodbye.lab
+│       │   ├── 07_-_Hello_Goodbye.svl
+│       │   ├── 07_-_Hello_Goodbye.ttl
+│       │   ├── 08_-_Strawberry_Fields_Forever.lab
+│       │   ├── 08_-_Strawberry_Fields_Forever.svl
+│       │   ├── 08_-_Strawberry_Fields_Forever.ttl
+│       │   ├── 09_-_Penny_Lane.lab
+│       │   ├── 09_-_Penny_Lane.svl
+│       │   ├── 09_-_Penny_Lane.ttl
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.lab
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.svl
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.ttl
+│       │   ├── 11_-_All_You_Need_Is_Love.lab
+│       │   ├── 11_-_All_You_Need_Is_Love.svl
+│       │   └── 11_-_All_You_Need_Is_Love.ttl
+│       ├── 10CD1_-_The_Beatles
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.lab
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.svl
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.ttl
+│       │   ├── CD1_-_02_-_Dear_Prudence.lab
+│       │   ├── CD1_-_02_-_Dear_Prudence.svl
+│       │   ├── CD1_-_02_-_Dear_Prudence.ttl
+│       │   ├── CD1_-_03_-_Glass_Onion.lab
+│       │   ├── CD1_-_03_-_Glass_Onion.svl
+│       │   ├── CD1_-_03_-_Glass_Onion.ttl
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.lab
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.svl
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.ttl
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.lab
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.svl
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.ttl
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.lab
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.svl
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.ttl
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.lab
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.svl
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.ttl
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.lab
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.svl
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.ttl
+│       │   ├── CD1_-_09_-_Martha_My_Dear.lab
+│       │   ├── CD1_-_09_-_Martha_My_Dear.svl
+│       │   ├── CD1_-_09_-_Martha_My_Dear.ttl
+│       │   ├── CD1_-_10_-_I'm_So_Tired.lab
+│       │   ├── CD1_-_10_-_I'm_So_Tired.svl
+│       │   ├── CD1_-_10_-_I'm_So_Tired.ttl
+│       │   ├── CD1_-_11_-_Black_Bird.lab
+│       │   ├── CD1_-_11_-_Black_Bird.svl
+│       │   ├── CD1_-_11_-_Black_Bird.ttl
+│       │   ├── CD1_-_12_-_Piggies.lab
+│       │   ├── CD1_-_12_-_Piggies.svl
+│       │   ├── CD1_-_12_-_Piggies.ttl
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.lab
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.svl
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.ttl
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.lab
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.svl
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.ttl
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.lab
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.svl
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.ttl
+│       │   ├── CD1_-_16_-_I_Will.lab
+│       │   ├── CD1_-_16_-_I_Will.svl
+│       │   ├── CD1_-_16_-_I_Will.ttl
+│       │   ├── CD1_-_17_-_Julia.lab
+│       │   ├── CD1_-_17_-_Julia.svl
+│       │   └── CD1_-_17_-_Julia.ttl
+│       ├── 10CD2_-_The_Beatles
+│       │   ├── CD2_-_01_-_Birthday.lab
+│       │   ├── CD2_-_01_-_Birthday.svl
+│       │   ├── CD2_-_01_-_Birthday.ttl
+│       │   ├── CD2_-_02_-_Yer_Blues.lab
+│       │   ├── CD2_-_02_-_Yer_Blues.svl
+│       │   ├── CD2_-_02_-_Yer_Blues.ttl
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.lab
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.svl
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.ttl
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_M.svl
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.lab
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.ttl
+│       │   ├── CD2_-_05_-_Sexy_Sadie.lab
+│       │   ├── CD2_-_05_-_Sexy_Sadie.svl
+│       │   ├── CD2_-_05_-_Sexy_Sadie.ttl
+│       │   ├── CD2_-_06_-_Helter_Skelter.lab
+│       │   ├── CD2_-_06_-_Helter_Skelter.svl
+│       │   ├── CD2_-_06_-_Helter_Skelter.ttl
+│       │   ├── CD2_-_07_-_Long_Long_Long.lab
+│       │   ├── CD2_-_07_-_Long_Long_Long.svl
+│       │   ├── CD2_-_07_-_Long_Long_Long.ttl
+│       │   ├── CD2_-_08_-_Revolution_1.lab
+│       │   ├── CD2_-_08_-_Revolution_1.svl
+│       │   ├── CD2_-_08_-_Revolution_1.ttl
+│       │   ├── CD2_-_09_-_Honey_Pie.lab
+│       │   ├── CD2_-_09_-_Honey_Pie.svl
+│       │   ├── CD2_-_09_-_Honey_Pie.ttl
+│       │   ├── CD2_-_10_-_Savoy_Truffle.lab
+│       │   ├── CD2_-_10_-_Savoy_Truffle.svl
+│       │   ├── CD2_-_10_-_Savoy_Truffle.ttl
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.lab
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.svl
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.ttl
+│       │   ├── CD2_-_12_-_Revolution_9.lab
+│       │   ├── CD2_-_12_-_Revolution_9.svl
+│       │   ├── CD2_-_12_-_Revolution_9.ttl
+│       │   ├── CD2_-_13_-_Good_Night.lab
+│       │   ├── CD2_-_13_-_Good_Night.svl
+│       │   └── CD2_-_13_-_Good_Night.ttl
+│       ├── 11_-_Abbey_Road
+│       │   ├── 01_-_Come_Together.lab
+│       │   ├── 01_-_Come_Together.svl
+│       │   ├── 01_-_Come_Together.ttl
+│       │   ├── 02_-_Something.lab
+│       │   ├── 02_-_Something.svl
+│       │   ├── 02_-_Something.ttl
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.lab
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.svl
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.ttl
+│       │   ├── 04_-_Oh!_Darling.lab
+│       │   ├── 04_-_Oh!_Darling.svl
+│       │   ├── 04_-_Oh!_Darling.ttl
+│       │   ├── 05_-_Octopus's_Garden.lab
+│       │   ├── 05_-_Octopus's_Garden.svl
+│       │   ├── 05_-_Octopus's_Garden.ttl
+│       │   ├── 06_-_I_Want_You.lab
+│       │   ├── 06_-_I_Want_You.svl
+│       │   ├── 06_-_I_Want_You.ttl
+│       │   ├── 07_-_Here_Comes_The_Sun.lab
+│       │   ├── 07_-_Here_Comes_The_Sun.svl
+│       │   ├── 07_-_Here_Comes_The_Sun.ttl
+│       │   ├── 08_-_Because.lab
+│       │   ├── 08_-_Because.svl
+│       │   ├── 08_-_Because.ttl
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.lab
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.svl
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.ttl
+│       │   ├── 10_-_Sun_King.lab
+│       │   ├── 10_-_Sun_King.svl
+│       │   ├── 10_-_Sun_King.ttl
+│       │   ├── 11_-_Mean_Mr_Mustard.lab
+│       │   ├── 11_-_Mean_Mr_Mustard.svl
+│       │   ├── 11_-_Mean_Mr_Mustard.ttl
+│       │   ├── 12_-_Polythene_Pam.lab
+│       │   ├── 12_-_Polythene_Pam.svl
+│       │   ├── 12_-_Polythene_Pam.ttl
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.lab
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.svl
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.ttl
+│       │   ├── 14_-_Golden_Slumbers.lab
+│       │   ├── 14_-_Golden_Slumbers.svl
+│       │   ├── 14_-_Golden_Slumbers.ttl
+│       │   ├── 15_-_Carry_That_Weight.lab
+│       │   ├── 15_-_Carry_That_Weight.svl
+│       │   ├── 15_-_Carry_That_Weight.ttl
+│       │   ├── 16_-_The_End.lab
+│       │   ├── 16_-_The_End.svl
+│       │   ├── 16_-_The_End.ttl
+│       │   ├── 17_-_Her_Majesty.lab
+│       │   ├── 17_-_Her_Majesty.svl
+│       │   └── 17_-_Her_Majesty.ttl
+│       └── 12_-_Let_It_Be
+│           ├── 01_-_Two_of_Us.lab
+│           ├── 01_-_Two_of_Us.svl
+│           ├── 01_-_Two_of_Us.ttl
+│           ├── 02_-_Dig_a_Pony.lab
+│           ├── 02_-_Dig_a_Pony.svl
+│           ├── 02_-_Dig_a_Pony.ttl
+│           ├── 03_-_Across_the_Universe.lab
+│           ├── 03_-_Across_the_Universe.svl
+│           ├── 03_-_Across_the_Universe.ttl
+│           ├── 04_-_I_Me_Mine.lab
+│           ├── 04_-_I_Me_Mine.svl
+│           ├── 04_-_I_Me_Mine.ttl
+│           ├── 05_-_Dig_It.lab
+│           ├── 05_-_Dig_It.svl
+│           ├── 05_-_Dig_It.ttl
+│           ├── 06_-_Let_It_Be.lab
+│           ├── 06_-_Let_It_Be.svl
+│           ├── 06_-_Let_It_Be.ttl
+│           ├── 07_-_Maggie_Mae.lab
+│           ├── 07_-_Maggie_Mae.svl
+│           ├── 07_-_Maggie_Mae.ttl
+│           ├── 08_-_I've_Got_A_Feeling.lab
+│           ├── 08_-_I've_Got_A_Feeling.svl
+│           ├── 08_-_I've_Got_A_Feeling.ttl
+│           ├── 09_-_One_After_909.lab
+│           ├── 09_-_One_After_909.svl
+│           ├── 09_-_One_After_909.ttl
+│           ├── 10_-_The_Long_and_Winding_Road.lab
+│           ├── 10_-_The_Long_and_Winding_Road.svl
+│           ├── 10_-_The_Long_and_Winding_Road.ttl
+│           ├── 11_-_For_You_Blue.lab
+│           ├── 11_-_For_You_Blue.svl
+│           ├── 11_-_For_You_Blue.ttl
+│           ├── 12_-_Get_Back.lab
+│           ├── 12_-_Get_Back.svl
+│           └── 12_-_Get_Back.ttl
+├── keylab
+│   └── The\ Beatles
+│       ├── 01_-_Please_Please_Me
+│       │   ├── 01_-_I_Saw_Her_Standing_There.lab
+│       │   ├── 01_-_I_Saw_Her_Standing_There.ttl
+│       │   ├── 02_-_Misery.lab
+│       │   ├── 02_-_Misery.ttl
+│       │   ├── 03_-_Anna_(Go_To_Him).lab
+│       │   ├── 03_-_Anna_(Go_To_Him).ttl
+│       │   ├── 04_-_Chains.lab
+│       │   ├── 04_-_Chains.ttl
+│       │   ├── 05_-_Boys.lab
+│       │   ├── 05_-_Boys.ttl
+│       │   ├── 06_-_Ask_Me_Why.lab
+│       │   ├── 06_-_Ask_Me_Why.ttl
+│       │   ├── 07_-_Please_Please_Me.lab
+│       │   ├── 07_-_Please_Please_Me.ttl
+│       │   ├── 08_-_Love_Me_Do.lab
+│       │   ├── 08_-_Love_Me_Do.ttl
+│       │   ├── 09_-_P._S._I_Love_You.lab
+│       │   ├── 09_-_P._S._I_Love_You.ttl
+│       │   ├── 10_-_Baby_It's_You.lab
+│       │   ├── 10_-_Baby_It's_You.ttl
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.lab
+│       │   ├── 11_-_Do_You_Want_To_Know_A_Secret.ttl
+│       │   ├── 12_-_A_Taste_Of_Honey.lab
+│       │   ├── 12_-_A_Taste_Of_Honey.ttl
+│       │   ├── 13_-_There's_A_Place.lab
+│       │   ├── 13_-_There's_A_Place.ttl
+│       │   ├── 14_-_Twist_And_Shout.lab
+│       │   └── 14_-_Twist_And_Shout.ttl
+│       ├── 02_-_With_the_Beatles
+│       │   ├── 01_-_It_Won't_Be_Long.lab
+│       │   ├── 01_-_It_Won't_Be_Long.ttl
+│       │   ├── 02_-_All_I've_Got_To_Do.lab
+│       │   ├── 02_-_All_I've_Got_To_Do.ttl
+│       │   ├── 03_-_All_My_Loving.lab
+│       │   ├── 03_-_All_My_Loving.ttl
+│       │   ├── 04_-_Don't_Bother_Me.lab
+│       │   ├── 04_-_Don't_Bother_Me.ttl
+│       │   ├── 05_-_Little_Child.lab
+│       │   ├── 05_-_Little_Child.ttl
+│       │   ├── 06_-_Till_There_Was_You.lab
+│       │   ├── 06_-_Till_There_Was_You.ttl
+│       │   ├── 07_-_Please_Mister_Postman.lab
+│       │   ├── 07_-_Please_Mister_Postman.ttl
+│       │   ├── 08_-_Roll_Over_Beethoven.lab
+│       │   ├── 08_-_Roll_Over_Beethoven.ttl
+│       │   ├── 09_-_Hold_Me_Tight.lab
+│       │   ├── 09_-_Hold_Me_Tight.ttl
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.lab
+│       │   ├── 10_-_You_Really_Got_A_Hold_On_Me.ttl
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.lab
+│       │   ├── 11_-_I_Wanna_Be_Your_Man.ttl
+│       │   ├── 12_-_Devil_In_Her_Heart.lab
+│       │   ├── 12_-_Devil_In_Her_Heart.ttl
+│       │   ├── 13_-_Not_A_Second_Time.lab
+│       │   ├── 13_-_Not_A_Second_Time.ttl
+│       │   ├── 14_-_Money.lab
+│       │   └── 14_-_Money.ttl
+│       ├── 03_-_A_Hard_Day's_Night
+│       │   ├── 01_-_A_Hard_Day's_Night.lab
+│       │   ├── 01_-_A_Hard_Day's_Night.ttl
+│       │   ├── 02_-_I_Should_Have_Known_Better.lab
+│       │   ├── 02_-_I_Should_Have_Known_Better.ttl
+│       │   ├── 03_-_If_I_Fell.lab
+│       │   ├── 03_-_If_I_Fell.ttl
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.lab
+│       │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.ttl
+│       │   ├── 05_-_And_I_Love_Her.lab
+│       │   ├── 05_-_And_I_Love_Her.ttl
+│       │   ├── 06_-_Tell_Me_Why.lab
+│       │   ├── 06_-_Tell_Me_Why.ttl
+│       │   ├── 07_-_Can't_Buy_Me_Love.lab
+│       │   ├── 07_-_Can't_Buy_Me_Love.ttl
+│       │   ├── 08_-_Any_Time_At_All.lab
+│       │   ├── 08_-_Any_Time_At_All.ttl
+│       │   ├── 09_-_I'll_Cry_Instead.lab
+│       │   ├── 09_-_I'll_Cry_Instead.ttl
+│       │   ├── 10_-_Things_We_Said_Today.lab
+│       │   ├── 10_-_Things_We_Said_Today.ttl
+│       │   ├── 11_-_When_I_Get_Home.lab
+│       │   ├── 11_-_When_I_Get_Home.ttl
+│       │   ├── 12_-_You_Can't_Do_That.lab
+│       │   ├── 12_-_You_Can't_Do_That.ttl
+│       │   ├── 13_-_I'll_Be_Back.lab
+│       │   └── 13_-_I'll_Be_Back.ttl
+│       ├── 04_-_Beatles_for_Sale
+│       │   ├── 01_-_No_Reply.lab
+│       │   ├── 01_-_No_Reply.ttl
+│       │   ├── 02_-_I'm_a_Loser.lab
+│       │   ├── 02_-_I'm_a_Loser.ttl
+│       │   ├── 03_-_Baby's_In_Black.lab
+│       │   ├── 03_-_Baby's_In_Black.ttl
+│       │   ├── 04_-_Rock_and_Roll_Music.lab
+│       │   ├── 04_-_Rock_and_Roll_Music.ttl
+│       │   ├── 05_-_I'll_Follow_the_Sun.lab
+│       │   ├── 05_-_I'll_Follow_the_Sun.ttl
+│       │   ├── 06_-_Mr._Moonlight.lab
+│       │   ├── 06_-_Mr._Moonlight.ttl
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.lab
+│       │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.ttl
+│       │   ├── 08_-_Eight_Days_a_Week.lab
+│       │   ├── 08_-_Eight_Days_a_Week.ttl
+│       │   ├── 09_-_Words_of_Love.lab
+│       │   ├── 09_-_Words_of_Love.ttl
+│       │   ├── 10_-_Honey_Don't.lab
+│       │   ├── 10_-_Honey_Don't.ttl
+│       │   ├── 11_-_Every_Little_Thing.lab
+│       │   ├── 11_-_Every_Little_Thing.ttl
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.lab
+│       │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.ttl
+│       │   ├── 13_-_What_You're_Doing.lab
+│       │   ├── 13_-_What_You're_Doing.ttl
+│       │   ├── 14_-_Everybody's_Trying_to_Be_My_Baby.lab
+│       │   └── 14_-_Everybody's_Trying_to_Be_My_Baby.ttl
+│       ├── 05_-_Help!
+│       │   ├── 01_-_Help!.lab
+│       │   ├── 01_-_Help!.ttl
+│       │   ├── 02_-_The_Night_Before.lab
+│       │   ├── 02_-_The_Night_Before.ttl
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.lab
+│       │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.ttl
+│       │   ├── 04_-_I_Need_You.lab
+│       │   ├── 04_-_I_Need_You.ttl
+│       │   ├── 05_-_Another_Girl.lab
+│       │   ├── 05_-_Another_Girl.ttl
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.lab
+│       │   ├── 06_-_You're_Going_To_Lose_That_Girl.ttl
+│       │   ├── 07_-_Ticket_To_Ride.lab
+│       │   ├── 07_-_Ticket_To_Ride.ttl
+│       │   ├── 08_-_Act_Naturally.lab
+│       │   ├── 08_-_Act_Naturally.ttl
+│       │   ├── 09_-_It's_Only_Love.lab
+│       │   ├── 09_-_It's_Only_Love.ttl
+│       │   ├── 10_-_You_Like_Me_Too_Much.lab
+│       │   ├── 10_-_You_Like_Me_Too_Much.ttl
+│       │   ├── 11_-_Tell_Me_What_You_See.lab
+│       │   ├── 11_-_Tell_Me_What_You_See.ttl
+│       │   ├── 12_-_I've_Just_Seen_a_Face.lab
+│       │   ├── 12_-_I've_Just_Seen_a_Face.ttl
+│       │   ├── 13_-_Yesterday.lab
+│       │   ├── 13_-_Yesterday.ttl
+│       │   ├── 14_-_Dizzy_Miss_Lizzy.lab
+│       │   └── 14_-_Dizzy_Miss_Lizzy.ttl
+│       ├── 06_-_Rubber_Soul
+│       │   ├── 01_-_Drive_My_Car.lab
+│       │   ├── 01_-_Drive_My_Car.ttl
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).lab
+│       │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).ttl
+│       │   ├── 03_-_You_Won't_See_Me.lab
+│       │   ├── 03_-_You_Won't_See_Me.ttl
+│       │   ├── 04_-_Nowhere_Man.lab
+│       │   ├── 04_-_Nowhere_Man.ttl
+│       │   ├── 05_-_Think_For_Yourself.lab
+│       │   ├── 05_-_Think_For_Yourself.ttl
+│       │   ├── 06_-_The_Word.lab
+│       │   ├── 06_-_The_Word.ttl
+│       │   ├── 07_-_Michelle.lab
+│       │   ├── 07_-_Michelle.ttl
+│       │   ├── 08_-_What_Goes_On.lab
+│       │   ├── 08_-_What_Goes_On.ttl
+│       │   ├── 09_-_Girl.lab
+│       │   ├── 09_-_Girl.ttl
+│       │   ├── 10_-_I'm_Looking_Through_You.lab
+│       │   ├── 10_-_I'm_Looking_Through_You.ttl
+│       │   ├── 11_-_In_My_Life.lab
+│       │   ├── 11_-_In_My_Life.ttl
+│       │   ├── 12_-_Wait.lab
+│       │   ├── 12_-_Wait.ttl
+│       │   ├── 13_-_If_I_Needed_Someone.lab
+│       │   ├── 13_-_If_I_Needed_Someone.ttl
+│       │   ├── 14_-_Run_For_Your_Life.lab
+│       │   └── 14_-_Run_For_Your_Life.ttl
+│       ├── 07_-_Revolver
+│       │   ├── 01_-_Taxman.lab
+│       │   ├── 01_-_Taxman.ttl
+│       │   ├── 02_-_Eleanor_Rigby.lab
+│       │   ├── 02_-_Eleanor_Rigby.ttl
+│       │   ├── 03_-_I'm_Only_Sleeping.lab
+│       │   ├── 03_-_I'm_Only_Sleeping.ttl
+│       │   ├── 04_-_Love_You_To.lab
+│       │   ├── 04_-_Love_You_To.ttl
+│       │   ├── 05_-_Here,_There_And_Everywhere.lab
+│       │   ├── 05_-_Here,_There_And_Everywhere.ttl
+│       │   ├── 06_-_Yellow_Submarine.lab
+│       │   ├── 06_-_Yellow_Submarine.ttl
+│       │   ├── 07_-_She_Said_She_Said.lab
+│       │   ├── 07_-_She_Said_She_Said.ttl
+│       │   ├── 08_-_Good_Day_Sunshine.lab
+│       │   ├── 08_-_Good_Day_Sunshine.ttl
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.lab
+│       │   ├── 09_-_And_Your_Bird_Can_Sing.ttl
+│       │   ├── 10_-_For_No_One.lab
+│       │   ├── 10_-_For_No_One.ttl
+│       │   ├── 11_-_Doctor_Robert.lab
+│       │   ├── 11_-_Doctor_Robert.ttl
+│       │   ├── 12_-_I_Want_To_Tell_You.lab
+│       │   ├── 12_-_I_Want_To_Tell_You.ttl
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.lab
+│       │   ├── 13_-_Got_To_Get_You_Into_My_Life.ttl
+│       │   ├── 14_-_Tomorrow_Never_Knows.lab
+│       │   └── 14_-_Tomorrow_Never_Knows.ttl
+│       ├── 08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.lab
+│       │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.ttl
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.lab
+│       │   ├── 02_-_With_A_Little_Help_From_My_Friends.ttl
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.lab
+│       │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.ttl
+│       │   ├── 04_-_Getting_Better.lab
+│       │   ├── 04_-_Getting_Better.ttl
+│       │   ├── 05_-_Fixing_A_Hole.lab
+│       │   ├── 05_-_Fixing_A_Hole.ttl
+│       │   ├── 06_-_She's_Leaving_Home.lab
+│       │   ├── 06_-_She's_Leaving_Home.ttl
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.lab
+│       │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.ttl
+│       │   ├── 08_-_Within_You_Without_You.lab
+│       │   ├── 08_-_Within_You_Without_You.ttl
+│       │   ├── 09_-_When_I'm_Sixty-Four.lab
+│       │   ├── 09_-_When_I'm_Sixty-Four.ttl
+│       │   ├── 10_-_Lovely_Rita.lab
+│       │   ├── 10_-_Lovely_Rita.ttl
+│       │   ├── 11_-_Good_Morning_Good_Morning.lab
+│       │   ├── 11_-_Good_Morning_Good_Morning.ttl
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).lab
+│       │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).ttl
+│       │   ├── 13_-_A_Day_In_The_Life.lab
+│       │   └── 13_-_A_Day_In_The_Life.ttl
+│       ├── 09_-_Magical_Mystery_Tour
+│       │   ├── 01_-_Magical_Mystery_Tour.lab
+│       │   ├── 01_-_Magical_Mystery_Tour.ttl
+│       │   ├── 02_-_The_Fool_On_The_Hill.lab
+│       │   ├── 02_-_The_Fool_On_The_Hill.ttl
+│       │   ├── 03_-_Flying.lab
+│       │   ├── 03_-_Flying.ttl
+│       │   ├── 04_-_Blue_Jay_Way.lab
+│       │   ├── 04_-_Blue_Jay_Way.ttl
+│       │   ├── 05_-_Your_Mother_Should_Know.lab
+│       │   ├── 05_-_Your_Mother_Should_Know.ttl
+│       │   ├── 06_-_I_Am_The_Walrus.lab
+│       │   ├── 06_-_I_Am_The_Walrus.ttl
+│       │   ├── 07_-_Hello_Goodbye.lab
+│       │   ├── 07_-_Hello_Goodbye.ttl
+│       │   ├── 08_-_Strawberry_Fields_Forever.lab
+│       │   ├── 08_-_Strawberry_Fields_Forever.ttl
+│       │   ├── 09_-_Penny_Lane.lab
+│       │   ├── 09_-_Penny_Lane.ttl
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.lab
+│       │   ├── 10_-_Baby_You're_A_Rich_Man.ttl
+│       │   ├── 11_-_All_You_Need_Is_Love.lab
+│       │   └── 11_-_All_You_Need_Is_Love.ttl
+│       ├── 10CD1_-_The_Beatles
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.lab
+│       │   ├── CD1_-_01_-_Back_in_the_USSR.ttl
+│       │   ├── CD1_-_02_-_Dear_Prudence.lab
+│       │   ├── CD1_-_02_-_Dear_Prudence.ttl
+│       │   ├── CD1_-_03_-_Glass_Onion.lab
+│       │   ├── CD1_-_03_-_Glass_Onion.ttl
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.lab
+│       │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.ttl
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.lab
+│       │   ├── CD1_-_05_-_Wild_Honey_Pie.ttl
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.lab
+│       │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.ttl
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.lab
+│       │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.ttl
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.lab
+│       │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.ttl
+│       │   ├── CD1_-_09_-_Martha_My_Dear.lab
+│       │   ├── CD1_-_09_-_Martha_My_Dear.ttl
+│       │   ├── CD1_-_10_-_I'm_So_Tired.lab
+│       │   ├── CD1_-_10_-_I'm_So_Tired.ttl
+│       │   ├── CD1_-_11_-_Black_Bird.lab
+│       │   ├── CD1_-_11_-_Black_Bird.ttl
+│       │   ├── CD1_-_12_-_Piggies.lab
+│       │   ├── CD1_-_12_-_Piggies.ttl
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.lab
+│       │   ├── CD1_-_13_-_Rocky_Raccoon.ttl
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.lab
+│       │   ├── CD1_-_14_-_Don't_Pass_Me_By.ttl
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.lab
+│       │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.ttl
+│       │   ├── CD1_-_16_-_I_Will.lab
+│       │   ├── CD1_-_16_-_I_Will.ttl
+│       │   ├── CD1_-_17_-_Julia.lab
+│       │   └── CD1_-_17_-_Julia.ttl
+│       ├── 10CD2_-_The_Beatles
+│       │   ├── CD2_-_01_-_Birthday.lab
+│       │   ├── CD2_-_01_-_Birthday.ttl
+│       │   ├── CD2_-_02_-_Yer_Blues.lab
+│       │   ├── CD2_-_02_-_Yer_Blues.ttl
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.lab
+│       │   ├── CD2_-_03_-_Mother_Nature's_Son.ttl
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.lab
+│       │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.ttl
+│       │   ├── CD2_-_05_-_Sexy_Sadie.lab
+│       │   ├── CD2_-_05_-_Sexy_Sadie.ttl
+│       │   ├── CD2_-_06_-_Helter_Skelter.lab
+│       │   ├── CD2_-_06_-_Helter_Skelter.ttl
+│       │   ├── CD2_-_07_-_Long_Long_Long.lab
+│       │   ├── CD2_-_07_-_Long_Long_Long.ttl
+│       │   ├── CD2_-_08_-_Revolution_1.lab
+│       │   ├── CD2_-_08_-_Revolution_1.ttl
+│       │   ├── CD2_-_09_-_Honey_Pie.lab
+│       │   ├── CD2_-_09_-_Honey_Pie.ttl
+│       │   ├── CD2_-_10_-_Savoy_Truffle.lab
+│       │   ├── CD2_-_10_-_Savoy_Truffle.ttl
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.lab
+│       │   ├── CD2_-_11_-_Cry_Baby_Cry.ttl
+│       │   ├── CD2_-_13_-_Good_Night.lab
+│       │   └── CD2_-_13_-_Good_Night.ttl
+│       ├── 11_-_Abbey_Road
+│       │   ├── 01_-_Come_Together.lab
+│       │   ├── 01_-_Come_Together.ttl
+│       │   ├── 02_-_Something.lab
+│       │   ├── 02_-_Something.ttl
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.lab
+│       │   ├── 03_-_Maxwell's_Silver_Hammer.ttl
+│       │   ├── 04_-_Oh!_Darling.lab
+│       │   ├── 04_-_Oh!_Darling.ttl
+│       │   ├── 05_-_Octopus's_Garden.lab
+│       │   ├── 05_-_Octopus's_Garden.ttl
+│       │   ├── 06_-_I_Want_You.lab
+│       │   ├── 06_-_I_Want_You.ttl
+│       │   ├── 07_-_Here_Comes_The_Sun.lab
+│       │   ├── 07_-_Here_Comes_The_Sun.ttl
+│       │   ├── 08_-_Because.lab
+│       │   ├── 08_-_Because.ttl
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.lab
+│       │   ├── 09_-_You_Never_Give_Me_Your_Money.ttl
+│       │   ├── 10_-_Sun_King.lab
+│       │   ├── 10_-_Sun_King.ttl
+│       │   ├── 11_-_Mean_Mr_Mustard.lab
+│       │   ├── 11_-_Mean_Mr_Mustard.ttl
+│       │   ├── 12_-_Polythene_Pam.lab
+│       │   ├── 12_-_Polythene_Pam.ttl
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.lab
+│       │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.ttl
+│       │   ├── 14_-_Golden_Slumbers.lab
+│       │   ├── 14_-_Golden_Slumbers.ttl
+│       │   ├── 15_-_Carry_That_Weight.lab
+│       │   ├── 15_-_Carry_That_Weight.ttl
+│       │   ├── 16_-_The_End.lab
+│       │   ├── 16_-_The_End.ttl
+│       │   ├── 17_-_Her_Majesty.lab
+│       │   └── 17_-_Her_Majesty.ttl
+│       └── 12_-_Let_It_Be
+│           ├── 01_-_Two_of_Us.lab
+│           ├── 01_-_Two_of_Us.ttl
+│           ├── 02_-_Dig_a_Pony.lab
+│           ├── 02_-_Dig_a_Pony.ttl
+│           ├── 03_-_Across_the_Universe.lab
+│           ├── 03_-_Across_the_Universe.ttl
+│           ├── 04_-_I_Me_Mine.lab
+│           ├── 04_-_I_Me_Mine.ttl
+│           ├── 05_-_Dig_It.lab
+│           ├── 05_-_Dig_It.ttl
+│           ├── 06_-_Let_It_Be.lab
+│           ├── 06_-_Let_It_Be.ttl
+│           ├── 07_-_Maggie_Mae.lab
+│           ├── 07_-_Maggie_Mae.ttl
+│           ├── 08_-_I've_Got_A_Feeling.lab
+│           ├── 08_-_I've_Got_A_Feeling.ttl
+│           ├── 09_-_One_After_909.lab
+│           ├── 09_-_One_After_909.ttl
+│           ├── 10_-_The_Long_and_Winding_Road.lab
+│           ├── 10_-_The_Long_and_Winding_Road.ttl
+│           ├── 11_-_For_You_Blue.lab
+│           ├── 11_-_For_You_Blue.ttl
+│           ├── 12_-_Get_Back.lab
+│           └── 12_-_Get_Back.ttl
+└── seglab
+    └── The\ Beatles
+        ├── 01_-_Please_Please_Me
+        │   ├── 01_-_I_Saw_Her_Standing_There.lab
+        │   ├── 01_-_I_Saw_Her_Standing_There.ttl
+        │   ├── 02_-_Misery.lab
+        │   ├── 02_-_Misery.ttl
+        │   ├── 03_-_Anna_(Go_To_Him).lab
+        │   ├── 03_-_Anna_(Go_To_Him).ttl
+        │   ├── 04_-_Chains.lab
+        │   ├── 04_-_Chains.ttl
+        │   ├── 05_-_Boys.lab
+        │   ├── 05_-_Boys.ttl
+        │   ├── 06_-_Ask_Me_Why.lab
+        │   ├── 06_-_Ask_Me_Why.ttl
+        │   ├── 07_-_Please_Please_Me.lab
+        │   ├── 07_-_Please_Please_Me.ttl
+        │   ├── 08_-_Love_Me_Do.lab
+        │   ├── 08_-_Love_Me_Do.ttl
+        │   ├── 09_-_P._S._I_Love_You.lab
+        │   ├── 09_-_P._S._I_Love_You.ttl
+        │   ├── 10_-_Baby_It's_You.lab
+        │   ├── 10_-_Baby_It's_You.ttl
+        │   ├── 11_-_Do_You_Want_To_Know_A_Secret.lab
+        │   ├── 11_-_Do_You_Want_To_Know_A_Secret.ttl
+        │   ├── 12_-_A_Taste_Of_Honey.lab
+        │   ├── 12_-_A_Taste_Of_Honey.ttl
+        │   ├── 13_-_There's_A_Place.lab
+        │   ├── 13_-_There's_A_Place.ttl
+        │   ├── 14_-_Twist_And_Shout.lab
+        │   └── 14_-_Twist_And_Shout.ttl
+        ├── 02_-_With_the_Beatles
+        │   ├── 01_-_It_Won't_Be_Long.lab
+        │   ├── 01_-_It_Won't_Be_Long.ttl
+        │   ├── 02_-_All_I've_Got_To_Do.lab
+        │   ├── 02_-_All_I've_Got_To_Do.ttl
+        │   ├── 03_-_All_My_Loving.lab
+        │   ├── 03_-_All_My_Loving.ttl
+        │   ├── 04_-_Don't_Bother_Me.lab
+        │   ├── 04_-_Don't_Bother_Me.ttl
+        │   ├── 05_-_Little_Child.lab
+        │   ├── 05_-_Little_Child.ttl
+        │   ├── 06_-_Till_There_Was_You.lab
+        │   ├── 06_-_Till_There_Was_You.ttl
+        │   ├── 07_-_Please_Mister_Postman.lab
+        │   ├── 07_-_Please_Mister_Postman.ttl
+        │   ├── 08_-_Roll_Over_Beethoven.lab
+        │   ├── 08_-_Roll_Over_Beethoven.ttl
+        │   ├── 09_-_Hold_Me_Tight.lab
+        │   ├── 09_-_Hold_Me_Tight.ttl
+        │   ├── 10_-_You_Really_Got_A_Hold_On_Me.lab
+        │   ├── 10_-_You_Really_Got_A_Hold_On_Me.ttl
+        │   ├── 11_-_I_Wanna_Be_Your_Man.lab
+        │   ├── 11_-_I_Wanna_Be_Your_Man.ttl
+        │   ├── 12_-_Devil_In_Her_Heart.lab
+        │   ├── 12_-_Devil_In_Her_Heart.ttl
+        │   ├── 13_-_Not_A_Second_Time.lab
+        │   ├── 13_-_Not_A_Second_Time.ttl
+        │   ├── 14_-_Money.lab
+        │   └── 14_-_Money.ttl
+        ├── 03_-_A_Hard_Day's_Night
+        │   ├── 01_-_A_Hard_Day's_Night.lab
+        │   ├── 01_-_A_Hard_Day's_Night.ttl
+        │   ├── 02_-_I_Should_Have_Known_Better.lab
+        │   ├── 02_-_I_Should_Have_Known_Better.ttl
+        │   ├── 03_-_If_I_Fell.lab
+        │   ├── 03_-_If_I_Fell.ttl
+        │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.lab
+        │   ├── 04_-_I'm_Happy_Just_To_Dance_With_You.ttl
+        │   ├── 05_-_And_I_Love_Her.lab
+        │   ├── 05_-_And_I_Love_Her.ttl
+        │   ├── 06_-_Tell_Me_Why.lab
+        │   ├── 06_-_Tell_Me_Why.ttl
+        │   ├── 07_-_Can't_Buy_Me_Love.lab
+        │   ├── 07_-_Can't_Buy_Me_Love.ttl
+        │   ├── 08_-_Any_Time_At_All.lab
+        │   ├── 08_-_Any_Time_At_All.ttl
+        │   ├── 09_-_I'll_Cry_Instead.lab
+        │   ├── 09_-_I'll_Cry_Instead.ttl
+        │   ├── 10_-_Things_We_Said_Today.lab
+        │   ├── 10_-_Things_We_Said_Today.ttl
+        │   ├── 11_-_When_I_Get_Home.lab
+        │   ├── 11_-_When_I_Get_Home.ttl
+        │   ├── 12_-_You_Can't_Do_That.lab
+        │   ├── 12_-_You_Can't_Do_That.ttl
+        │   ├── 13_-_I'll_Be_Back.lab
+        │   └── 13_-_I'll_Be_Back.ttl
+        ├── 04_-_Beatles_for_Sale
+        │   ├── 01_-_No_Reply.lab
+        │   ├── 01_-_No_Reply.ttl
+        │   ├── 02_-_I'm_a_Loser.lab
+        │   ├── 02_-_I'm_a_Loser.ttl
+        │   ├── 03_-_Baby's_In_Black.lab
+        │   ├── 03_-_Baby's_In_Black.ttl
+        │   ├── 04_-_Rock_and_Roll_Music.lab
+        │   ├── 04_-_Rock_and_Roll_Music.ttl
+        │   ├── 05_-_I'll_Follow_the_Sun.lab
+        │   ├── 05_-_I'll_Follow_the_Sun.ttl
+        │   ├── 06_-_Mr._Moonlight.lab
+        │   ├── 06_-_Mr._Moonlight.ttl
+        │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.lab
+        │   ├── 07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.ttl
+        │   ├── 08_-_Eight_Days_a_Week.lab
+        │   ├── 08_-_Eight_Days_a_Week.ttl
+        │   ├── 09_-_Words_of_Love.lab
+        │   ├── 09_-_Words_of_Love.ttl
+        │   ├── 10_-_Honey_Don't.lab
+        │   ├── 10_-_Honey_Don't.ttl
+        │   ├── 11_-_Every_Little_Thing.lab
+        │   ├── 11_-_Every_Little_Thing.ttl
+        │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.lab
+        │   ├── 12_-_I_Don't_Want_to_Spoil_the_Party.ttl
+        │   ├── 13_-_What_You're_Doing.lab
+        │   ├── 13_-_What_You're_Doing.ttl
+        │   ├── 14_-_Everybody's_Trying_to_Be_My_Baby.lab
+        │   └── 14_-_Everybody's_Trying_to_Be_My_Baby.ttl
+        ├── 05_-_Help!
+        │   ├── 01_-_Help!.lab
+        │   ├── 01_-_Help!.ttl
+        │   ├── 02_-_The_Night_Before.lab
+        │   ├── 02_-_The_Night_Before.ttl
+        │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.lab
+        │   ├── 03_-_You've_Got_To_Hide_Your_Love_Away.ttl
+        │   ├── 04_-_I_Need_You.lab
+        │   ├── 04_-_I_Need_You.ttl
+        │   ├── 05_-_Another_Girl.lab
+        │   ├── 05_-_Another_Girl.ttl
+        │   ├── 06_-_You're_Going_To_Lose_That_Girl.lab
+        │   ├── 06_-_You're_Going_To_Lose_That_Girl.ttl
+        │   ├── 07_-_Ticket_To_Ride.lab
+        │   ├── 07_-_Ticket_To_Ride.ttl
+        │   ├── 08_-_Act_Naturally.lab
+        │   ├── 08_-_Act_Naturally.ttl
+        │   ├── 09_-_It's_Only_Love.lab
+        │   ├── 09_-_It's_Only_Love.ttl
+        │   ├── 10_-_You_Like_Me_Too_Much.lab
+        │   ├── 10_-_You_Like_Me_Too_Much.ttl
+        │   ├── 11_-_Tell_Me_What_You_See.lab
+        │   ├── 11_-_Tell_Me_What_You_See.ttl
+        │   ├── 12_-_I've_Just_Seen_a_Face.lab
+        │   ├── 12_-_I've_Just_Seen_a_Face.ttl
+        │   ├── 13_-_Yesterday.lab
+        │   ├── 13_-_Yesterday.ttl
+        │   ├── 14_-_Dizzy_Miss_Lizzy.lab
+        │   └── 14_-_Dizzy_Miss_Lizzy.ttl
+        ├── 06_-_Rubber_Soul
+        │   ├── 01_-_Drive_My_Car.lab
+        │   ├── 01_-_Drive_My_Car.ttl
+        │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).lab
+        │   ├── 02_-_Norwegian_Wood_(This_Bird_Has_Flown).ttl
+        │   ├── 03_-_You_Won't_See_Me.lab
+        │   ├── 03_-_You_Won't_See_Me.ttl
+        │   ├── 04_-_Nowhere_Man.lab
+        │   ├── 04_-_Nowhere_Man.ttl
+        │   ├── 05_-_Think_For_Yourself.lab
+        │   ├── 05_-_Think_For_Yourself.ttl
+        │   ├── 06_-_The_Word.lab
+        │   ├── 06_-_The_Word.ttl
+        │   ├── 07_-_Michelle.lab
+        │   ├── 07_-_Michelle.ttl
+        │   ├── 08_-_What_Goes_On.lab
+        │   ├── 08_-_What_Goes_On.ttl
+        │   ├── 09_-_Girl.lab
+        │   ├── 09_-_Girl.ttl
+        │   ├── 10_-_I'm_Looking_Through_You.lab
+        │   ├── 10_-_I'm_Looking_Through_You.ttl
+        │   ├── 11_-_In_My_Life.lab
+        │   ├── 11_-_In_My_Life.ttl
+        │   ├── 12_-_Wait.lab
+        │   ├── 12_-_Wait.ttl
+        │   ├── 13_-_If_I_Needed_Someone.lab
+        │   ├── 13_-_If_I_Needed_Someone.ttl
+        │   ├── 14_-_Run_For_Your_Life.lab
+        │   └── 14_-_Run_For_Your_Life.ttl
+        ├── 07_-_Revolver
+        │   ├── 01_-_Taxman.lab
+        │   ├── 01_-_Taxman.ttl
+        │   ├── 02_-_Eleanor_Rigby.lab
+        │   ├── 02_-_Eleanor_Rigby.ttl
+        │   ├── 03_-_I'm_Only_Sleeping.lab
+        │   ├── 03_-_I'm_Only_Sleeping.ttl
+        │   ├── 04_-_Love_You_To.lab
+        │   ├── 04_-_Love_You_To.ttl
+        │   ├── 05_-_Here,_There_And_Everywhere.lab
+        │   ├── 05_-_Here,_There_And_Everywhere.ttl
+        │   ├── 06_-_Yellow_Submarine.lab
+        │   ├── 06_-_Yellow_Submarine.ttl
+        │   ├── 07_-_She_Said_She_Said.lab
+        │   ├── 07_-_She_Said_She_Said.ttl
+        │   ├── 08_-_Good_Day_Sunshine.lab
+        │   ├── 08_-_Good_Day_Sunshine.ttl
+        │   ├── 09_-_And_Your_Bird_Can_Sing.lab
+        │   ├── 09_-_And_Your_Bird_Can_Sing.ttl
+        │   ├── 10_-_For_No_One.lab
+        │   ├── 10_-_For_No_One.ttl
+        │   ├── 11_-_Doctor_Robert.lab
+        │   ├── 11_-_Doctor_Robert.ttl
+        │   ├── 12_-_I_Want_To_Tell_You.lab
+        │   ├── 12_-_I_Want_To_Tell_You.ttl
+        │   ├── 13_-_Got_To_Get_You_Into_My_Life.lab
+        │   ├── 13_-_Got_To_Get_You_Into_My_Life.ttl
+        │   ├── 14_-_Tomorrow_Never_Knows.lab
+        │   └── 14_-_Tomorrow_Never_Knows.ttl
+        ├── 08_-_Sgt._Pepper's_Lonely_Hearts_Club_Band
+        │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.lab
+        │   ├── 01_-_Sgt._Pepper's_Lonely_Hearts_Club_Band.ttl
+        │   ├── 02_-_With_A_Little_Help_From_My_Friends.lab
+        │   ├── 02_-_With_A_Little_Help_From_My_Friends.ttl
+        │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.lab
+        │   ├── 03_-_Lucy_In_The_Sky_With_Diamonds.ttl
+        │   ├── 04_-_Getting_Better.lab
+        │   ├── 04_-_Getting_Better.ttl
+        │   ├── 05_-_Fixing_A_Hole.lab
+        │   ├── 05_-_Fixing_A_Hole.ttl
+        │   ├── 06_-_She's_Leaving_Home.lab
+        │   ├── 06_-_She's_Leaving_Home.ttl
+        │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.lab
+        │   ├── 07_-_Being_For_The_Benefit_Of_Mr._Kite!.ttl
+        │   ├── 08_-_Within_You_Without_You.lab
+        │   ├── 08_-_Within_You_Without_You.ttl
+        │   ├── 09_-_When_I'm_Sixty-Four.lab
+        │   ├── 09_-_When_I'm_Sixty-Four.ttl
+        │   ├── 10_-_Lovely_Rita.lab
+        │   ├── 10_-_Lovely_Rita.ttl
+        │   ├── 11_-_Good_Morning_Good_Morning.lab
+        │   ├── 11_-_Good_Morning_Good_Morning.ttl
+        │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).lab
+        │   ├── 12_-_Sgt._Pepper's_Lonely_Hearts_Club_Band_(Reprise).ttl
+        │   ├── 13_-_A_Day_In_The_Life.lab
+        │   └── 13_-_A_Day_In_The_Life.ttl
+        ├── 09_-_Magical_Mystery_Tour
+        │   ├── 01_-_Magical_Mystery_Tour.lab
+        │   ├── 01_-_Magical_Mystery_Tour.ttl
+        │   ├── 02_-_The_Fool_On_The_Hill.lab
+        │   ├── 02_-_The_Fool_On_The_Hill.ttl
+        │   ├── 03_-_Flying.lab
+        │   ├── 03_-_Flying.ttl
+        │   ├── 04_-_Blue_Jay_Way.lab
+        │   ├── 04_-_Blue_Jay_Way.ttl
+        │   ├── 05_-_Your_Mother_Should_Know.lab
+        │   ├── 05_-_Your_Mother_Should_Know.ttl
+        │   ├── 06_-_I_Am_The_Walrus.lab
+        │   ├── 06_-_I_Am_The_Walrus.ttl
+        │   ├── 07_-_Hello_Goodbye.lab
+        │   ├── 07_-_Hello_Goodbye.ttl
+        │   ├── 08_-_Strawberry_Fields_Forever.lab
+        │   ├── 08_-_Strawberry_Fields_Forever.ttl
+        │   ├── 09_-_Penny_Lane.lab
+        │   ├── 09_-_Penny_Lane.ttl
+        │   ├── 10_-_Baby_You're_A_Rich_Man.lab
+        │   ├── 10_-_Baby_You're_A_Rich_Man.ttl
+        │   ├── 11_-_All_You_Need_Is_Love.lab
+        │   └── 11_-_All_You_Need_Is_Love.ttl
+        ├── 10CD1_-_The_Beatles
+        │   ├── CD1_-_01_-_Back_in_the_USSR.lab
+        │   ├── CD1_-_01_-_Back_in_the_USSR.ttl
+        │   ├── CD1_-_02_-_Dear_Prudence.lab
+        │   ├── CD1_-_02_-_Dear_Prudence.ttl
+        │   ├── CD1_-_03_-_Glass_Onion.lab
+        │   ├── CD1_-_03_-_Glass_Onion.ttl
+        │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.lab
+        │   ├── CD1_-_04_-_Ob-La-Di,_Ob-La-Da.ttl
+        │   ├── CD1_-_05_-_Wild_Honey_Pie.lab
+        │   ├── CD1_-_05_-_Wild_Honey_Pie.ttl
+        │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.lab
+        │   ├── CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.ttl
+        │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.lab
+        │   ├── CD1_-_07_-_While_My_Guitar_Gently_Weeps.ttl
+        │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.lab
+        │   ├── CD1_-_08_-_Happiness_is_a_Warm_Gun.ttl
+        │   ├── CD1_-_09_-_Martha_My_Dear.lab
+        │   ├── CD1_-_09_-_Martha_My_Dear.ttl
+        │   ├── CD1_-_10_-_I'm_So_Tired.lab
+        │   ├── CD1_-_10_-_I'm_So_Tired.ttl
+        │   ├── CD1_-_11_-_Black_Bird.lab
+        │   ├── CD1_-_11_-_Black_Bird.ttl
+        │   ├── CD1_-_12_-_Piggies.lab
+        │   ├── CD1_-_12_-_Piggies.ttl
+        │   ├── CD1_-_13_-_Rocky_Raccoon.lab
+        │   ├── CD1_-_13_-_Rocky_Raccoon.ttl
+        │   ├── CD1_-_14_-_Don't_Pass_Me_By.lab
+        │   ├── CD1_-_14_-_Don't_Pass_Me_By.ttl
+        │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.lab
+        │   ├── CD1_-_15_-_Why_Don't_We_Do_It_In_The_Road.ttl
+        │   ├── CD1_-_16_-_I_Will.lab
+        │   ├── CD1_-_16_-_I_Will.ttl
+        │   ├── CD1_-_17_-_Julia.lab
+        │   └── CD1_-_17_-_Julia.ttl
+        ├── 10CD2_-_The_Beatles
+        │   ├── CD2_-_01_-_Birthday.lab
+        │   ├── CD2_-_01_-_Birthday.ttl
+        │   ├── CD2_-_02_-_Yer_Blues.lab
+        │   ├── CD2_-_02_-_Yer_Blues.ttl
+        │   ├── CD2_-_03_-_Mother_Nature's_Son.lab
+        │   ├── CD2_-_03_-_Mother_Nature's_Son.ttl
+        │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.lab
+        │   ├── CD2_-_04_-_Everybody's_Got_Something_To_Hide_Except_Me_and_My_Monkey.ttl
+        │   ├── CD2_-_05_-_Sexy_Sadie.lab
+        │   ├── CD2_-_05_-_Sexy_Sadie.ttl
+        │   ├── CD2_-_06_-_Helter_Skelter.lab
+        │   ├── CD2_-_06_-_Helter_Skelter.ttl
+        │   ├── CD2_-_07_-_Long_Long_Long.lab
+        │   ├── CD2_-_07_-_Long_Long_Long.ttl
+        │   ├── CD2_-_08_-_Revolution_1.lab
+        │   ├── CD2_-_08_-_Revolution_1.ttl
+        │   ├── CD2_-_09_-_Honey_Pie.lab
+        │   ├── CD2_-_09_-_Honey_Pie.ttl
+        │   ├── CD2_-_10_-_Savoy_Truffle.lab
+        │   ├── CD2_-_10_-_Savoy_Truffle.ttl
+        │   ├── CD2_-_11_-_Cry_Baby_Cry.lab
+        │   ├── CD2_-_11_-_Cry_Baby_Cry.ttl
+        │   ├── CD2_-_12_-_Revolution_9.lab
+        │   ├── CD2_-_12_-_Revolution_9.ttl
+        │   ├── CD2_-_13_-_Good_Night.lab
+        │   └── CD2_-_13_-_Good_Night.ttl
+        ├── 11_-_Abbey_Road
+        │   ├── 01_-_Come_Together.lab
+        │   ├── 01_-_Come_Together.ttl
+        │   ├── 02_-_Something.lab
+        │   ├── 02_-_Something.ttl
+        │   ├── 03_-_Maxwell's_Silver_Hammer.lab
+        │   ├── 03_-_Maxwell's_Silver_Hammer.ttl
+        │   ├── 04_-_Oh!_Darling.lab
+        │   ├── 04_-_Oh!_Darling.ttl
+        │   ├── 05_-_Octopus's_Garden.lab
+        │   ├── 05_-_Octopus's_Garden.ttl
+        │   ├── 06_-_I_Want_You.lab
+        │   ├── 06_-_I_Want_You.ttl
+        │   ├── 07_-_Here_Comes_The_Sun.lab
+        │   ├── 07_-_Here_Comes_The_Sun.ttl
+        │   ├── 08_-_Because.lab
+        │   ├── 08_-_Because.ttl
+        │   ├── 09_-_You_Never_Give_Me_Your_Money.lab
+        │   ├── 09_-_You_Never_Give_Me_Your_Money.ttl
+        │   ├── 10_-_Sun_King.lab
+        │   ├── 10_-_Sun_King.ttl
+        │   ├── 11_-_Mean_Mr_Mustard.lab
+        │   ├── 11_-_Mean_Mr_Mustard.ttl
+        │   ├── 12_-_Polythene_Pam.lab
+        │   ├── 12_-_Polythene_Pam.ttl
+        │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.lab
+        │   ├── 13_-_She_Came_In_Through_The_Bathroom_Window.ttl
+        │   ├── 14_-_Golden_Slumbers.lab
+        │   ├── 14_-_Golden_Slumbers.ttl
+        │   ├── 15_-_Carry_That_Weight.lab
+        │   ├── 15_-_Carry_That_Weight.ttl
+        │   ├── 16_-_The_End.lab
+        │   ├── 16_-_The_End.ttl
+        │   ├── 17_-_Her_Majesty.lab
+        │   └── 17_-_Her_Majesty.ttl
+        └── 12_-_Let_It_Be
+            ├── 01_-_Two_of_Us.lab
+            ├── 01_-_Two_of_Us.ttl
+            ├── 02_-_Dig_a_Pony.lab
+            ├── 02_-_Dig_a_Pony.ttl
+            ├── 03_-_Across_the_Universe.lab
+            ├── 03_-_Across_the_Universe.ttl
+            ├── 04_-_I_Me_Mine.lab
+            ├── 04_-_I_Me_Mine.ttl
+            ├── 05_-_Dig_It.lab
+            ├── 05_-_Dig_It.ttl
+            ├── 06_-_Let_It_Be.lab
+            ├── 06_-_Let_It_Be.ttl
+            ├── 07_-_Maggie_Mae.lab
+            ├── 07_-_Maggie_Mae.ttl
+            ├── 08_-_I've_Got_A_Feeling.lab
+            ├── 08_-_I've_Got_A_Feeling.ttl
+            ├── 09_-_One_After_909.lab
+            ├── 09_-_One_After_909.ttl
+            ├── 10_-_The_Long_and_Winding_Road.lab
+            ├── 10_-_The_Long_and_Winding_Road.ttl
+            ├── 11_-_For_You_Blue.lab
+            ├── 11_-_For_You_Blue.ttl
+            ├── 12_-_Get_Back.lab
+            └── 12_-_Get_Back.ttl
+
+77 directories, 1822 files
