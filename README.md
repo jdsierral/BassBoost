@@ -1,5 +1,6 @@
 # BassBoost
 Chord Estimation with Inversions in Beatles Songs
+
 Elena Georgieva (etg259@nyu.edu), Michal Goldstein (mng320@nyu.edu), and Juan Sierra(jds833@nyu.edu)
 
 A final project for MPATE-GE 2623 Music Information Retrieval at New York University. 
